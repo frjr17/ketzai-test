@@ -8,7 +8,7 @@ import {
 import DataTable from "@/app/components/data-table";
 import { normalizeString } from "@/lib/utils";
 
-export default async function TablePage(props: { params: { grado: string } }) {
+export default async function TablePage(props: { params: Promise<{ grado: string }> }) {
   const params = await props.params;
   const data = jsonData.find(
     (data) =>

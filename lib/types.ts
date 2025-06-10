@@ -18,7 +18,6 @@ export interface Contenido {
   actividades?: string[];
   indicadores?: string[];
   subtemas?: Contenido[]; // Recursive: allows any depth of subtopics
-  [key: string]: any; // Additional dynamic properties for max flexibility
 }
 
 // If your root JSON is an array:
