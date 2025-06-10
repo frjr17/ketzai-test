@@ -33,8 +33,8 @@ export default async function TablePage(props: { params: { grado: string } }) {
                   <AccordionTrigger className="text-2xl w-100 border border-gray">
                     {area.area}
                   </AccordionTrigger>
-                  <AccordionContent className="flex space-y-3 my-7 flex-col gap-4 text-balance">
-                    <section>
+                  <AccordionContent className="flex space-y-3 my-7  flex-col gap-4 text-balance">
+                    <section className="px-4">
                       <h1 className="text-3xl text-left font-bold">
                         Objetivos:
                       </h1>
