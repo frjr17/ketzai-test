@@ -104,7 +104,7 @@ export default function DataTable(props: IProps) {
         );
       },
       cell: ({ row }) => (
-        <div className="text-left ml-2">
+        <div className="text-left ml-2 w-90 text-wrap">
           <h3 className="font-bold text-lg">{row.getValue("tema")}</h3>
           {row.original.subtemas ? (
             <ul className="list-disc ml-4">
