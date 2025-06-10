@@ -12,7 +12,7 @@ export default async function TablePage(props:{params:{grado:string}}){
     const data = jsonData.find(data=>data.grado === params.grado)
     const index = jsonData.findIndex(data=>data.grado === params.grado)
     return(
-        <div className="flex flex-col space-y-5 justify-center items-center h-screen w-full" >
+        <div className="text-center p-20" >
       <h1 className="text-4xl font-bold">Datos de {data?.grado}  ({data?.año})</h1>
       <section>
         <Accordion
@@ -27,7 +27,7 @@ export default async function TablePage(props:{params:{grado:string}}){
                     <AccordionItem value={"item-"+ (i+1)}>
         <AccordionTrigger className="text-2xl w-100">{area.area}</AccordionTrigger>
         <AccordionContent className="flex flex-col gap-4 text-balance">
-         <DataTable  />
+         <DataTable  data={area.contenidos}/>
         </AccordionContent>
       </AccordionItem>
                 </div>
