@@ -75,6 +75,23 @@ export default function DataTable(props: IProps) {
 
     {
       accessorKey: "tema",
+      filterFn: (row, id, filterValue) => {
+        const tema = row.getValue("tema") as string;
+        const subtemas = (row.original.subtemas ?? []) as Contenido[];
+        // Convertimos todo a lowercase para que sea insensible a mayúsculas/minúsculas
+        const filtro = (filterValue as string)?.toLowerCase() ?? "";
+
+        if (!filtro) return true;
+
+        // Buscar en el tema principal
+        if (tema.toLowerCase().includes(filtro)) return true;
+
+        // Buscar en los subtemas (por nombre)
+        if (subtemas.some((st) => st.tema?.toLowerCase().includes(filtro)))
+          return true;
+
+        return false;
+      },
       header: ({ column }) => {
         return (
           <Button
@@ -104,9 +121,18 @@ export default function DataTable(props: IProps) {
       header: "Contenidos",
       cell: ({ row }) => (
         <div className="text-wrap space-y-5 w-100">
-          <div className="text-left"><strong>Procedimental: </strong><span>{row.original.procedimental}</span></div>
-          <div className="text-left"><strong>Conceptual: </strong><span>{row.original.conceptual}</span></div>
-          <div className="text-left"><strong>Actitudinal: </strong><span>{row.original.actitudinal}</span></div>
+          <div className="text-left">
+            <strong>Procedimental: </strong>
+            <span>{row.original.procedimental}</span>
+          </div>
+          <div className="text-left">
+            <strong>Conceptual: </strong>
+            <span>{row.original.conceptual}</span>
+          </div>
+          <div className="text-left">
+            <strong>Actitudinal: </strong>
+            <span>{row.original.actitudinal}</span>
+          </div>
         </div>
       ),
     },
@@ -115,24 +141,27 @@ export default function DataTable(props: IProps) {
       header: "Actividades",
       cell: ({ row }) => (
         <ul className="text-wrap text-left space-y-3 w-100 list-disc">
-          {(row.getValue("actividades") as Contenido["actividades"])!.map(actividad=>{
-            return <li key={actividad}>{actividad}</li>
-          })}
-          </ul>
+          {(row.getValue("actividades") as Contenido["actividades"])!.map(
+            (actividad) => {
+              return <li key={actividad}>{actividad}</li>;
+            }
+          )}
+        </ul>
       ),
     },
     {
       accessorKey: "indicadores",
       header: "Indicadores",
       cell: ({ row }) => (
-          <ul className="text-wrap text-left space-y-3 w-100 list-disc">
-          {(row.getValue("indicadores") as Contenido["indicadores"])!.map(indcador=>{
-            return <li key={indcador}>{indcador}</li>
-          })}
-          </ul>
+        <ul className="text-wrap text-left space-y-3 w-100 list-disc">
+          {(row.getValue("indicadores") as Contenido["indicadores"])!.map(
+            (indcador) => {
+              return <li key={indcador}>{indcador}</li>;
+            }
+          )}
+        </ul>
       ),
     },
-
   ];
 
   const table = useReactTable({
@@ -158,7 +187,7 @@ export default function DataTable(props: IProps) {
     <div className="w-full">
       <div className="flex items-center py-4">
         <Input
-          placeholder="Filter emails..."
+          placeholder="Filtra por tema o subtema..."
           value={(table.getColumn("tema")?.getFilterValue() as string) ?? ""}
           onChange={(event) =>
             table.getColumn("tema")?.setFilterValue(event.target.value)
