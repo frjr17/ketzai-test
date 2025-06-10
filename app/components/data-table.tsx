@@ -208,7 +208,7 @@ export default function DataTable(props: IProps) {
                 return (
                   <DropdownMenuCheckboxItem
                     key={column.id}
-                    className="text-wrap w-100"
+                    className="text-wrap w-100 capitalize"
                     checked={column.getIsVisible()}
                     onCheckedChange={(value) =>
                       column.toggleVisibility(!!value)
