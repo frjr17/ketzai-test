@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ketzai Test
 
-## Getting Started
+A modern web application boilerplate using **Next.js 13 App Router**, **Tailwind CSS**, **TypeScript**, and **shadcn/ui** components. This project is intended as a sandbox for integrating and testing advanced UI with best practices in modern React/Next.js development.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- **Next.js 13 App Router** – File-based routing and modern React features.
+- **Tailwind CSS** – Rapid, utility-first styling.
+- **shadcn/ui** – Accessible, beautifully styled UI primitives.
+- **TypeScript** – Type-safe, scalable codebase.
+- **ESLint & Prettier** – Linting and formatting for clean code.
+- **PostCSS** – CSS processing with plugins.
+
+---
+
+## 📁 Project Structure
+
+```
+
+ketzai-test/
+├── app/                  # App Router pages & layouts
+│   └── page.tsx          # Home page
+├── components/           # Reusable UI components
+│   └── ui/               # shadcn/ui components
+├── lib/                  # Utility functions
+├── public/               # Static assets
+├── .gitignore
+├── components.json       # shadcn/ui config
+├── eslint.config.mjs
+├── next.config.ts
+├── package.json
+├── postcss.config.mjs
+├── tsconfig.json
+└── README.md
+
+````
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Node.js 14+
+- npm 6+
+
+### Install
+
+```bash
+git clone https://github.com/frjr17/ketzai-test.git
+cd ketzai-test
+npm install
+````
+
+### Run Dev Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Build for Production
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+### Start Production
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📦 Main Dependencies
 
-## Deploy on Vercel
+* [Next.js](https://nextjs.org/)
+* [React](https://react.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [shadcn/ui](https://ui.shadcn.com/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [ESLint](https://eslint.org/)
+* [Prettier](https://prettier.io/)
+* [PostCSS](https://postcss.org/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+
+MIT
