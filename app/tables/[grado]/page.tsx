@@ -22,9 +22,8 @@ export default async function TablePage(props: { params: { grado: string } }) {
   );
   return (
     <div className="text-center p-20">
-      <h1 className="text-4xl font-bold">
-        Datos de {data?.grado} ({data?.año})
-      </h1>
+      <h1 className="text-4xl font-bold">Datos de {data?.grado}</h1>
+      <span className="italic text-xl">Año: {data?.año}</span>
       <section>
         <Accordion type="single" collapsible className="w-full space-y-5 mt-10">
           {jsonData[index].areas.map((area, i) => {
@@ -34,7 +33,17 @@ export default async function TablePage(props: { params: { grado: string } }) {
                   <AccordionTrigger className="text-2xl w-100 border border-gray">
                     {area.area}
                   </AccordionTrigger>
-                  <AccordionContent className="flex flex-col gap-4 text-balance">
+                  <AccordionContent className="flex space-y-3 my-7 flex-col gap-4 text-balance">
+                    <section>
+                      <h1 className="text-3xl text-left font-bold">
+                        Objetivos:
+                      </h1>
+                      <ul className="list-disc text-left ml-3 space-y-3 my-3">
+                        {area.objetivos.map((objetivo) => {
+                          return <li key={objetivo}>{objetivo}</li>;
+                        })}
+                      </ul>
+                    </section>
                     <DataTable data={area.contenidos} />
                   </AccordionContent>
                 </AccordionItem>
