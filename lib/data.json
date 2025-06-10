@@ -1,0 +1,1969 @@
+[
+  {
+    "grado": "Octavo",
+    "año": "2024",
+    "areas": [
+      {
+        "area": "Comunicación oral y escrita",
+        "objetivos": [
+          "Construye mensajes verbales y no verbales en situaciones comunicativas de su contexto con el fin de contribuir a una comunicación coherente.",
+          "Distingue las diversas modalidades de la lengua usadas en situaciones de su entorno para una comunicación más efectiva.",
+          "Utiliza mensajes verbales y no verbales en diversas técnicas de comunicación oral para transmitir ideas y pensamientos con coherencia, cohesión y claridad.",
+          "Interpreta mensajes a partir del conocimiento de los distintos significados y campos semánticos de las palabras para comunicar sentimientos, pensamientos e intenciones de manera clara y sencilla.",
+          "Aplica las normas del uso del idioma al participar en conversaciones, tomando en cuenta el saber escuchar con respeto, para opinar acerca de situaciones que afectan su entorno."
+        ],
+        "contenidos": [
+          {
+            "tema": "Funciones del lenguaje",
+            "conceptual": "Funciones (apelativa, expresiva, poética, metalingüística, conativa y fática).",
+            "procedimental": "Análisis de mensajes para determinar las seis funciones del lenguaje (referencial, expresiva, apelativa, metalingüística, poética y fática). Producción de textos en los que se enfaticen determinadas funciones del lenguaje.",
+            "actitudinal": "Aprecio por la multiplicidad de funciones que el lenguaje es capaz de desempeñar.",
+            "actividades": [
+              "Elabora un organizador gráfico en el que explique las funciones del lenguaje, la intención comunicativa y los recursos que se usan para transmitir los mensajes, y presenta una charla sobre el tema.",
+              "Escribe, en equipos, un texto en el que se enfatice una de las funciones del lenguaje y lo presente, de manera oral, en la clase."
+            ],
+            "indicadores": [
+              "Identifica, con seguridad, las funciones del lenguaje en lecturas asignadas.",
+              "Crea textos en los que se evidencien funciones del lenguaje, al aplicar normas ortográficas y coherencia."
+            ]
+          },
+          {
+            "tema": "Lenguaje verbal y no verbal",
+            "conceptual": "Lenguaje verbal y no verbal.",
+            "procedimental": "Utilización de recursos propios del lenguaje verbal y no verbal de acuerdo con las exigencias de determinadas situaciones comunicativas.",
+            "actitudinal": "Valoración del lenguaje verbal y no verbal como complementos para una comunicación eficaz en diversas situaciones del entorno.",
+            "actividades": [
+              "Forma una fila para jugar teléfono descompuesto. El último estudiante escribe un mensaje en una hoja de papel y se lo susurra al oído de su compañero de adelante; este explica lo que escuchó al siguiente sin usar las mismas palabras, y así sucesivamente.",
+              "El primer estudiante de la fila da a conocer a todo el salón lo que entendió, utilizando solamente lenguaje no verbal como movimientos y gestos, y el salón trata de adivinar en qué consistía el mensaje. El último estudiante revela el mensaje original escrito en la hoja de papel.",
+              "Extrae conclusiones sobre el texto tratado en la actividad."
+            ],
+            "indicadores": [
+              "Utiliza recursos del lenguaje verbal y no verbal en distintas situaciones comunicativas."
+            ]
+          },
+          {
+            "tema": "Técnicas de comunicación oral",
+            "conceptual": "Concepto de técnicas de comunicación oral, como formas de intercambiar mensajes de manera inmediata con otras personas, con base en unas determinadas pautas y según la técnica.",
+            "procedimental": "Construcción del concepto de técnicas de comunicación oral.",
+            "actitudinal": "Aprecio por la comunicación oral como forma de transmitir mensajes a los demás de forma inmediata.",
+            "actividades": [
+              "Investiga en internet, textos u otros medios cuáles son las técnicas de comunicación oral más utilizadas y sus recomendaciones.",
+              "Participa en una lluvia de ideas sobre las características de las técnicas de comunicación oral.",
+              "Construye, en equipos, una definición de técnica de comunicación oral."
+            ],
+            "indicadores": [
+              "Explica el concepto de técnica de comunicación oral, apoyado en conocimientos previos."
+            ],
+            "subtemas": [
+              {
+                "tema": "El debate",
+                "conceptual": "Definición del debate como un recurso útil para oponer ideas contrarias o incompatibles en un marco de respeto.",
+                "procedimental": "Participación en debates entre pares y con la mediación de un moderador.",
+                "actitudinal": "Aceptación del debate como método para defender opiniones de manera ordenada y respetuosa, aunque se tengan posiciones diferentes sobre un tema.",
+                "actividades": [
+                  "Elabora un cuadro sinóptico sobre el debate.",
+                  "Anota, en una ficha de trabajo, su opinión sobre un libro o una película de su predilección, o sobre un tema de interés actual.",
+                  "Comparte su ficha con un compañero y desarrolla un debate con él, en el que defienda lo anotado en las fichas (con la mediación de un moderador).",
+                  "Expone, en clubes de debate, sus opiniones sobre diversos temas."
+                ],
+                "indicadores": [
+                  "Explica, con sus palabras, el concepto de debate.",
+                  "Interviene, con interés, en un debate, evidenciando preparación previa y respeto hacia las ideas de los demás."
+                ]
+              },
+              {
+                "tema": "La mesa redonda",
+                "conceptual": "Definición de mesa redonda como una dinámica (con público o sin él) en la que se comunican diversas opiniones relativas a un tema.",
+                "procedimental": "Participación en mesas redondas entre pares.",
+                "actitudinal": "Reconocimiento de la mesa redonda como técnica que permite compartir puntos de vista acerca de un tema.",
+                "actividades": [
+                  "Observa mesas redondas (en televisión, internet o redes sociales) y extrae conclusiones sobre su desarrollo.",
+                  "Elabora un cartel en el que exponga el concepto de mesa redonda, y las ventajas y desventajas de su uso.",
+                  "Graba un pódcast con sugerencias para el desarrollo de la mesa redonda y lo comparte con sus compañeros."
+                ],
+                "indicadores": [
+                  "Elabora, con sus palabras, una definición de mesa redonda.",
+                  "Interviene en una mesa redonda, mostrando respeto por las ideas de los demás."
+                ]
+              },
+              {
+                "tema": "El foro",
+                "conceptual": "Definición del foro como una actividad de comunicación oral en la que un grupo de personas se reúne para hablar sobre un tema de interés en común.",
+                "procedimental": "Participación en foros desarrollados entre pares.",
+                "actitudinal": "Conciencia de la función del foro como un espacio de libre expresión en el que se puede hacer uso de la palabra para hablar sobre temas sobre los que se tiene un amplio conocimiento o interés.",
+                "actividades": [
+                  "Diseña un mapa mental sobre el foro en el que incluya sugerencias para su implementación en clase.",
+                  "Organiza y participa en un foro sobre un tema elegido por consenso.",
+                  "Evalúa y autoevalúa las participaciones en la actividad, y realiza recomendaciones."
+                ],
+                "indicadores": [
+                  "Construye el concepto de foro, según conocimientos previos.",
+                  "Interviene en un foro con una preparación adecuada, manejo de un buen vocabulario y un uso apropiado de la voz."
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "Usos de la mayúscula",
+            "conceptual": "Uso de la letra mayúscula en siglas, acrónimos, abreviaturas y nombres de días festivos.",
+            "procedimental": "Utilización de la letra mayúscula en los contextos mencionados.",
+            "actitudinal": "Interés por el uso de la letra mayúscula como un recurso gráfico distintivo en diversos contextos.",
+            "actividades": [
+              "Busca ejemplos de acrónimos, siglas y abreviaturas en revistas, periódicos e internet, e identifica y asocia sus significados.",
+              "Investiga, en libros o internet, las normas y los usos de su escritura.",
+              "Completa palabras, oraciones y textos correctamente con acrónimos, siglas y abreviaturas.",
+              "Redacta un texto utilizando algunas de las expresiones investigadas."
+            ],
+            "indicadores": [
+              "Utiliza los usos de la mayúscula en siglas, acrónimos, abreviaturas y nombres de días festivos, aplicando normas convencionales de ortografía."
+            ]
+          },
+          {
+            "tema": "Signos de puntuación",
+            "conceptual": "Aplicación correcta de los signos de puntuación (signos de interrogación, signos de exclamación, guion y comillas), en oraciones y textos.",
+            "procedimental": "Corrección de textos en donde se utilicen los signos de puntuación estudiados.",
+            "actitudinal": "Valoración de los signos de puntuación como recursos para una buena comunicación escrita. Responsabilidad en el proceso de corrección de textos.",
+            "actividades": [
+              "Lee textos que presenten guiones, comillas, signos de interrogación y de exclamación, e infiere sus funciones.",
+              "Confecciona una infografía sobre las normas de uso de esos signos y las ejemplifica.",
+              "Escribe una anécdota de forma breve, en la que use recursos tales como diálogos, descripciones y narraciones.",
+              "Redacta la versión preliminar de un texto en el que use los signos de puntuación estudiados.",
+              "Depura la versión final de su texto, la corrige y comparte con sus compañeros.",
+              "Intercambia el texto con un compañero y corrige los errores de puntuación en los que haya incurrido, de ser necesario."
+            ],
+            "indicadores": [
+              "Aplica correctamente los usos del guion, las comillas, los signos de interrogación y los signos de exclamación.",
+              "Corrige, según normas, la puntuación de textos que presentan errores en el uso de los signos de puntuación estudiados."
+            ]
+          },
+          {
+            "tema": "Reglas generales de acentuación",
+            "conceptual": "Acentuación de las palabras de acuerdo con las reglas generales de acentuación ortográfica.",
+            "procedimental": "Acentuación de las palabras de acuerdo con las reglas generales.",
+            "actitudinal": "Apreciación de la acentuación ortográfica como recurso para una buena comunicación escrita.",
+            "actividades": [
+              "Elabora, con ayuda del docente, una ficha de síntesis de las reglas generales de acentuación.",
+              "Extrae una lista de palabras de un texto y la intercambia con un compañero.",
+              "Analiza la acentuación de las palabras, de acuerdo con las reglas estudiadas e infiere las normas.",
+              "Corrige aquellos vocablos que necesiten acentuación ortográfica o que estén acentuadas innecesariamente."
+            ],
+            "indicadores": [
+              "Acentúa las palabras de acuerdo con las reglas generales de acentuación."
+            ],
+            "subtemas": [
+              {
+                "tema": "Acentuación de las concurrencias vocálicas",
+                "conceptual": "Acentuación de diptongos, triptongos e hiatos.",
+                "procedimental": "Acentuación de diptongos, triptongos e hiatos.",
+                "actitudinal": "Seguridad al acentuar concurrencias vocálicas.",
+                "actividades": [
+                  "Identifica las reglas de acentuación ortográfica en un texto que contenga palabras con hiato, diptongo y triptongo.",
+                  "Resuelve prácticas de acentuación ortográfica en vocablos que lo necesiten y analiza las normas."
+                ],
+                "indicadores": [
+                  "Aplica las normas de acentuación de diptongos, triptongos e hiatos."
+                ]
+              },
+              {
+                "tema": "Acentuación de monosílabos",
+                "conceptual": "Acentuación diacrítica de monosílabos.",
+                "procedimental": "Acentuación diacrítica de monosílabos.",
+                "actitudinal": "Reconocimiento de las diferencias de significado que se producen al acentuar los monosílabos.",
+                "actividades": [
+                  "Asigna la tilde diacrítica a palabras que formen parte de pares de vocablos para diferenciar su significado.",
+                  "Explica la diferencia de función y significado de cada uno de los vocablos."
+                ],
+                "indicadores": ["Acentúa monosílabos correctamente."]
+              }
+            ]
+          },
+          {
+            "tema": "Uso de los grafemas b, v; s, z, c",
+            "conceptual": "Empleo correcto de los grafemas b, v; s, z, c.",
+            "procedimental": "Corrección de palabras, en textos, que presenten estos grafemas.",
+            "actitudinal": "Valoración de la ortografía como recurso para conseguir una buena comunicación escrita.",
+            "actividades": [
+              "Escribe oraciones en las que use correctamente términos que lleven los grafemas b, v, s, z, c.",
+              "Dicta las oraciones, en equipos, a sus demás compañeros; detecta errores y los corrige.",
+              "Redacta la versión preliminar de un texto en el que aplique las reglas para el uso de los grafemas estudiados.",
+              "Intercambia su escrito con un compañero y corrige aquellos casos en los que los grafemas en estudio estén usados incorrectamente."
+            ],
+            "indicadores": [
+              "Utiliza los grafemas b, v; s, z, c correctamente en su expresión escrita.",
+              "Corrige, según las normas vistas, textos que presentan errores ortográficos de los grafemas estudiados."
+            ]
+          },
+          {
+            "tema": "Textos informativos",
+            "conceptual": "Definición del concepto de texto informativo como un medio para dar a conocer datos sobre hechos noticiosos y de interés público.",
+            "procedimental": "Redacción de noticias sobre la realidad de la comunidad o del país.",
+            "actitudinal": "Interés por la información que se refiere a la realidad desde diversas perspectivas.",
+            "actividades": [
+              "Confecciona un mapa conceptual sobre los textos informativos: concepto, características, tipos y ejemplos.",
+              "Analiza el uso de textos informativos, las recomendaciones y sus beneficios.",
+              "Lee un texto informativo e identifica sus partes y recursos."
+            ],
+            "indicadores": [
+              "Explica, con seguridad, el concepto de texto informativo, apoyado en ejemplos."
+            ],
+            "subtemas": [
+              {
+                "tema": "La noticia",
+                "conceptual": "Redacción de noticias sobre la realidad de la comunidad o del país.",
+                "procedimental": "Redacción de noticias.",
+                "actitudinal": "Interés por la noticia como un texto creado para dar a conocer hechos noticiosos de interés para los demás.",
+                "actividades": [
+                  "Repasa las preguntas básicas de los textos informativos (¿qué?, ¿quién?, ¿cuándo?, ¿dónde?, ¿cómo? y ¿para qué?) e identifica los datos que aportan en ejemplos puntuales.",
+                  "Redacta una noticia con base en un hecho reciente de su entorno inmediato nacional o internacional.",
+                  "Colabora en la creación de un periódico mural con las noticias que escribieron."
+                ],
+                "indicadores": [
+                  "Redacta, con interés, noticias de acuerdo con las características y finalidades de los textos informativos, con cuidado en el uso apropiado del lenguaje."
+                ]
+              },
+              {
+                "tema": "La crónica",
+                "conceptual": "Análisis de los aspectos informativos y literarios que caracterizan a las crónicas.",
+                "procedimental": "Redacción de crónicas, tomando en consideración sus rasgos informativos y sus características literarias.",
+                "actitudinal": "Aprecio por informar sobre hechos noticiosos con el apoyo de recursos literarios, a fin de darles una perspectiva personal.",
+                "actividades": [
+                  "Distingue las técnicas literarias utilizadas en una crónica y las contrasta con sus elementos informativos.",
+                  "Redacta una crónica y la comparte con el resto de la clase.",
+                  "Autocorrige el texto de errores de sintaxis, ortográficos o vicios de dicción."
+                ],
+                "indicadores": [
+                  "Analiza, con interés, los elementos informativos y literarios de una crónica.",
+                  "Escribe, con responsabilidad, una crónica sobre un hecho relevante conforme a sus características formales."
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "Comentario de texto",
+            "conceptual": "Realización de comentarios críticos de las clases de textos estudiados, incluyendo una interpretación del fondo y la forma.",
+            "procedimental": "Redacción de comentarios sobre textos leídos.",
+            "actitudinal": "Valoración crítica de la forma y el fondo en la lectura de textos.",
+            "actividades": [
+              "Lee un texto de su preferencia, e investiga su género literario, su estructura, etc.",
+              "Redacta un comentario sobre el texto leído y lo expone ante sus compañeros.",
+              "Coevalúa, de forma oral, las producciones presentadas del grupo."
+            ],
+            "indicadores": [
+              "Redacta un comentario de texto, según cuidados de forma y fondo."
+            ]
+          },
+          {
+            "tema": "Argumentación",
+            "conceptual": "Definición del concepto de argumentación.",
+            "procedimental": "Discusión y análisis de ejemplos de argumentaciones.",
+            "actitudinal": "Conciencia de la importancia de una adecuada argumentación para expresar o defender sus ideas en debates o ensayos.",
+            "actividades": [
+              "Discute, en equipos, sobre el concepto de argumentación y llega a una definición en consenso.",
+              "Participa en clubes de debate, en los que argumente sus opiniones.",
+              "Lee ejemplos de varias argumentaciones y compara su contenido con las definiciones estudiadas."
+            ],
+            "indicadores": [
+              "Explica, con sus palabras, el concepto de argumentación."
+            ],
+            "subtemas": [
+              {
+                "tema": "Clases de argumentación",
+                "conceptual": "Clasificación de argumentaciones de acuerdo con su construcción: por analogía, de autoridad, deductivo, otras.",
+                "procedimental": "Elaboración adecuada de argumentaciones.",
+                "actitudinal": "Reconocimiento de las clases de argumentaciones que permiten cumplir mejor determinadas tareas discursivas.",
+                "actividades": [
+                  "Clasifica las argumentaciones investigadas con base en su construcción.",
+                  "Construye argumentaciones, en equipos, a partir de temas polémicos y significativos para todos los integrantes.",
+                  "Selecciona el tipo de argumentación de su interés, la expone ante el grupo y ejemplifica.",
+                  "Redacta un texto argumentativo, con base en un tema dado, en el que incluya tres argumentaciones diferentes."
+                ],
+                "indicadores": [
+                  "Clasifica argumentaciones según la forma en la que se construyen.",
+                  "Construye argumentaciones de diferentes clases, con el cuidado en la construcción lógica de sus ideas."
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "El ensayo",
+            "conceptual": "Definición del concepto y las características del ensayo como una modalidad textual dedicada a la exposición o discusión de ideas con una perspectiva personal.",
+            "procedimental": "Redacción de ensayos.",
+            "actitudinal": "Valoración de la libertad textual como una de las condiciones para la creación de ensayos.",
+            "actividades": [
+              "Discute, en una plenaria, sobre la estructura y las características del ensayo, y redacta su propia definición del concepto.",
+              "Lee un ensayo, en equipos, y determina las principales ideas que expone y la perspectiva personal que se pone de manifiesto en el texto.",
+              "Evalúa de qué manera las citas textuales se destacan del cuerpo del texto y qué contribución realizan.",
+              "Investiga sobre los sistemas de citas y referencias; por ejemplo, las normas de APA.",
+              "Incorpora un mínimo de tres citas a su trabajo y las construye correctamente, y las presenta.",
+              "Selecciona un tema al que le gustaría referirse y redacta un ensayo con base en él."
+            ],
+            "indicadores": [
+              "Elabora una definición de ensayo, con base en ejemplos dados.",
+              "Evalúa ensayos con base en los diversos discursos que pueden aparecer en él.",
+              "Reconoce la forma de las citas textuales en un ensayo.",
+              "Incorpora citas en sus ensayos de forma consciente y apropiada.",
+              "Redacta ensayos, según su estructura, a fin de exponer ideas con una perspectiva personal."
+            ]
+          },
+          {
+            "tema": "Documentos de uso cotidiano",
+            "conceptual": "Definición del concepto general de documentos de uso cotidiano y su importancia en contextos humanos, tales como el hogar, el centro educativo y el mundo laboral.",
+            "procedimental": "Identificación y redacción de diversos documentos de uso cotidiano.",
+            "actitudinal": "Estimación de los documentos de uso cotidiano como recursos para comunicarse con los demás de modo respetuoso y procurando un uso adecuado del lenguaje escrito.",
+            "actividades": [
+              "Investiga acerca de los documentos de uso cotidiano. Lee sus resultados en una plenaria y construye una definición del concepto.",
+              "Aporta, en clases, la lista de sus documentos de uso cotidiano con su síntesis de en qué consisten, apoyado en investigación realizada."
+            ],
+            "indicadores": [
+              "Define, con sus palabras, el concepto de documento de uso cotidiano."
+            ],
+            "subtemas": [
+              {
+                "tema": "Notas",
+                "conceptual": "Escritura de notas para ponerse en contacto, por escrito y de manera informal, con personas que no se encuentran disponibles de forma inmediata.",
+                "procedimental": "Redacción de notas.",
+                "actitudinal": "Precisión en la redacción de notas.",
+                "actividades": [
+                  "Participa, con orientaciones del docente, en la elaboración del concepto, características y recomendaciones para la redacción de notas.",
+                  "Escribe notas para comunicar mensajes a cuatro distintos destinatarios."
+                ],
+                "indicadores": [
+                  "Redacta notas para comunicar mensajes informales por escrito, con buen léxico."
+                ]
+              },
+              {
+                "tema": "Avisos",
+                "conceptual": "Confección de avisos para dar a conocer información de importancia a un conjunto de personas.",
+                "procedimental": "Redacción de avisos.",
+                "actitudinal": "Conciencia del valor comunicativo de los avisos.",
+                "actividades": [
+                  "Investiga sobre los distintos tipos de avisos.",
+                  "Observa avisos y analiza su contenido e intención.",
+                  "Crea un aviso dirigido a toda la comunidad estudiantil, que difunda un evento o una actividad.",
+                  "Recorta modelos de avisos y confecciona una lámina con estos.",
+                  "Redacta un modelo de aviso de cada tipo estudiado y adaptado a su contexto.",
+                  "Elabora 'El museo de los avisos', con todos los trabajos realizados."
+                ],
+                "indicadores": [
+                  "Confecciona, de forma adecuada, avisos para informar sobre eventos, apoyado en recursos léxicos sintetizados."
+                ]
+              },
+              {
+                "tema": "Cartas de solicitud",
+                "conceptual": "Redacción de cartas de solicitud como recurso para ponerse en contacto con diversas instancias en el contexto escolar, comunal o gubernamental.",
+                "procedimental": "Redacción de cartas de solicitud.",
+                "actitudinal": "Respeto a los destinatarios de las cartas.",
+                "actividades": [
+                  "Se documenta, con ayuda del docente y de modelos investigados, sobre la redacción de cartas de solicitud.",
+                  "Utiliza formatos digitales para la redacción de cartas."
+                ],
+                "indicadores": [
+                  "Escribe una carta de solicitud, con lenguaje formal y la estructura requerida."
+                ]
+              },
+              {
+                "tema": "El correo electrónico",
+                "conceptual": "Utilización del correo electrónico para el envío y recepción de mensajes.",
+                "procedimental": "Redacción de correos electrónicos formales e informales.",
+                "actitudinal": "Conciencia de los beneficios y recomendaciones para el uso del correo electrónico.",
+                "actividades": [
+                  "Investiga, en medios a su alcance, recomendaciones para la comunicación de correos electrónicos formales e informales.",
+                  "Socializa sus observaciones y recomendaciones.",
+                  "Organiza grupos de correos con sus compañeros y docente.",
+                  "Redacta correos formales e informales, coevaluando entre pares los trabajos realizados."
+                ],
+                "indicadores": [
+                  "Redacta correos electrónicos, ajustándose a formalidades comunicativas establecidas."
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "Enriquecimiento léxico",
+            "conceptual": "Construcción del concepto de riqueza léxica.",
+            "procedimental": "Participación en actividades que amplían el léxico.",
+            "actitudinal": "Aprecio del léxico como uno de los componentes para favorecer la comunicación eficaz.",
+            "actividades": [
+              "Participa en una lluvia de ideas sobre la riqueza léxica, orientado por el docente.",
+              "Lee un artículo sobre la riqueza léxica y participa en una lluvia de ideas sobre este tema.",
+              "Crea, mediante una plenaria, una definición de riqueza léxica."
+            ],
+            "indicadores": [
+              "Elabora una definición de riqueza léxica, en consenso grupal."
+            ],
+            "subtemas": [
+              {
+                "tema": "Tecnicismos",
+                "conceptual": "Descripción del concepto, características y funciones de los tecnicismos.",
+                "procedimental": "Interpretación de palabras técnicas mediante la consulta de obras o diccionarios especializados, según el área.",
+                "actitudinal": "Valoración de los usos especializados que se pueden hacer del idioma en diferentes áreas del saber.",
+                "actividades": [
+                  "Escucha una grabación en la que se utilice uno o dos tecnicismos.",
+                  "Reflexiona, en plenaria, sobre la función que cumplen las palabras técnicas usadas en la grabación, el nombre conceptual que reciben esas palabras y su definición.",
+                  "Elabora una lista de términos técnicos usados en una o varias áreas del conocimiento.",
+                  "Redacta oraciones con estos términos."
+                ],
+                "indicadores": [
+                  "Elabora una definición de tecnicismo, con base en ejemplos dados.",
+                  "Interpreta, con acierto, el significado de vocabulario técnico."
+                ]
+              },
+              {
+                "tema": "Neologismos",
+                "conceptual": "Definición del concepto de neologismo.",
+                "procedimental": "Interpretación de neologismos mediante el análisis de los componentes de la palabra.",
+                "actitudinal": "Curiosidad por la ampliación de su vocabulario mediante el uso de neologismos. Interés por la vitalidad de la lengua española, es decir, su cambio constante y su capacidad para generar vocablos que expresen realidades nuevas.",
+                "actividades": [
+                  "Visita el sitio web de la Real Academia Española de la Lengua y de la Academia Panameña de la Lengua y define, luego de su revisión, el concepto de neologismo.",
+                  "Investiga ejemplos de neologismos aceptados por las academias de la lengua, así como su correcta escritura.",
+                  "Identifica e interpreta neologismos en un texto técnico.",
+                  "Redacta un párrafo en el que use, al menos, tres neologismos."
+                ],
+                "indicadores": [
+                  "Elabora, con sus palabras, una definición de neologismo.",
+                  "Explica, con interés, el significado de neologismos mediante un análisis morfológico."
+                ]
+              },
+              {
+                "tema": "Arcaísmos",
+                "conceptual": "Distinción de arcaísmos como términos cuya forma o cuyo significado no corresponde al uso actual del idioma.",
+                "procedimental": "Corrección de ejemplos de arcaísmos en ejemplos dados por el docente.",
+                "actitudinal": "Reconocimiento del cambio lingüístico mediante las palabras que ya no se usan o que han dado lugar a otras más adecuadas o precisas.",
+                "actividades": [
+                  "Investiga una serie de vocablos que han caído en desuso, así como los términos por los que han sido reemplazados.",
+                  "Corrige ejemplos de arcaísmos en ejemplos dados por el docente."
+                ],
+                "indicadores": [
+                  "Distingue el uso de arcaísmos con apropiación de nuevas formas idiomáticas."
+                ]
+              },
+              {
+                "tema": "Coloquialismos",
+                "conceptual": "Identificación, en textos orales o escritos, de palabras que se usan especialmente en el lenguaje coloquial y las posibles razones de su uso.",
+                "procedimental": "Identificación de coloquialismos en textos.",
+                "actitudinal": "Aprecio por los coloquialismos como recursos para reproducir la oralidad del habla de las personas.",
+                "actividades": [
+                  "Investiga ejemplos de coloquialismos comunes y sus significados.",
+                  "Identifica, en un cuento o en un poema, coloquialismos panameños.",
+                  "Redacta diálogos en los que utilice coloquialismos y los comenta en clases."
+                ],
+                "indicadores": [
+                  "Identifica el valor de los coloquialismos en expresiones orales y escritas."
+                ]
+              },
+              {
+                "tema": "Barbarismos",
+                "conceptual": "Reconocimiento de barbarismos debido al uso de palabras mal escritas o mal pronunciadas o por el uso de términos impropios.",
+                "procedimental": "Corrección de barbarismos en conversaciones y escritos.",
+                "actitudinal": "Interés por expresarse de una manera clara y precisa para participar eficazmente en actos comunicativos.",
+                "actividades": [
+                  "Detecta errores idiomáticos propios o ajenos que se cometan al hablar o al escribir.",
+                  "Sugiere estrategias para evitar el uso de barbarismos y mejorar su expresión oral y escrita.",
+                  "Realiza ejercitaciones de correcciones de barbarismos dados."
+                ],
+                "indicadores": [
+                  "Corrige, de forma responsable, la utilización de barbarismos en conversaciones y escritos."
+                ]
+              },
+              {
+                "tema": "Solecismos",
+                "conceptual": "Corrección de solecismos en la redacción de textos, debido al uso incorrecto de los elementos gramaticales.",
+                "procedimental": "Eliminación de solecismos en textos y explicaciones al grupo.",
+                "actitudinal": "Valoración de la importancia que posee la corrección de solecismos en la expresión oral y escrita.",
+                "actividades": [
+                  "Elimina los solecismos de textos facilitados por el docente y explica al resto del grupo de qué forma sus enmiendas mejoraron la comunicación."
+                ],
+                "indicadores": [
+                  "Corrige, con seguridad, la presencia de solecismos en el discurso oral y escrito."
+                ]
+              },
+              {
+                "tema": "Frases hechas",
+                "conceptual": "Interpretación del significado de frases hechas y refranes de uso común en el país.",
+                "procedimental": "Consulta y uso de frases hechas y refranes en textos y conversaciones.",
+                "actitudinal": "Valoración de los elementos de la identidad nacional que se ponen de manifiesto en las frases utilizadas en el país.",
+                "actividades": [
+                  "Consulta textos de refranes y frases hechas.",
+                  "Toma una ficha con el comienzo de un refrán o una frase hecha (panameña) y la completa de manera original.",
+                  "Justifica, ante la clase, su modificación y los significados de los refranes y frases hechas.",
+                  "Utiliza los refranes para sintetizar enseñanzas de historias contadas o leídas."
+                ],
+                "indicadores": [
+                  "Analiza el sentido de frases hechas y refranes, en su debido contexto."
+                ]
+              },
+              {
+                "tema": "Tabúes y eufemismos",
+                "conceptual": "Sustitución de expresiones tabúes por eufemismos en contextos que así lo requieran.",
+                "procedimental": "Elaboración de listas de palabras tabúes y sus eufemismos.",
+                "actitudinal": "Respeto por el interlocutor en el uso de la lengua.",
+                "actividades": [
+                  "Elabora, en equipos, una lista de palabras inadecuadas o inconvenientes en ciertas situaciones comunicativas.",
+                  "Reemplaza cada palabra de la lista con un eufemismo y explica su significado."
+                ],
+                "indicadores": [
+                  "Reemplaza, con acierto, palabras tabúes por eufemismos en determinados contextos."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Estructura de la lengua",
+        "objetivos": [
+          "Reconoce la estructura de la lengua y las normas de construcción del mensaje en diversas situaciones para una comunicación efectiva.",
+          "Descompone las palabras en unidades mínimas al trabajar el aspecto léxico de la lengua para mejorar la comprensión de su significado y el enriquecimiento del vocabulario.",
+          "Clasifica las palabras según su significado y función en diversos contextos comunicativos para una mejor expresión oral y escrita.",
+          "Analiza las categorías gramaticales y las normas lingüísticas en diversos textos con la finalidad de asegurar una comunicación correcta.",
+          "Aplica las normas de estructuración del mensaje en diversas situaciones comunicativas para expresarse con propiedad.",
+          "Construye distintas unidades de expresión en su entorno para satisfacer las necesidades comunicativas.",
+          "Aplica los conocimientos de la lengua en contextos de su entorno para asegurar una comprensión adecuada.",
+          "Infiere la importancia de los aspectos semántico, morfosintáctico, fonológico y fonético en la estructuración de los textos para su mejor comprensión y aplicación."
+        ],
+        "contenidos": [
+          {
+            "tema": "Lengua y dialecto",
+            "conceptual": "Conceptos y características de lengua y dialecto.",
+            "procedimental": "Comparación de los conceptos y las características de lengua y dialecto. Reconocimiento de dialectos del español (español de Panamá, México, Argentina, etc.). Identificación de lenguas habladas en América (español, inglés, portugués, y lenguas originarias de Panamá).",
+            "actitudinal": "Valoración de la lengua como el recurso fundamental de la comunicación humana y del dialecto como su realización concreta.",
+            "actividades": [
+              "Investiga la definición y las características de la lengua y del dialecto de una lengua.",
+              "Elabora un cuadro comparativo que relacione ambos conceptos.",
+              "Escucha grabaciones de hablantes de español provenientes de Panamá, México, Argentina, entre otros países, y determina los rasgos más característicos.",
+              "Confecciona un cartel sobre algunos de los idiomas que se hablan en Panamá y en América.",
+              "Elabora un organizador gráfico con las variaciones de un mismo vocablo en diferentes países de América, y de vocablos en las regiones de Panamá."
+            ],
+            "indicadores": [
+              "Define, apropiadamente, el concepto de lengua.",
+              "Explica, con sus palabras, el significado de dialecto.",
+              "Identifica diversos dialectos del idioma español, evitando discriminación.",
+              "Reconoce otros idiomas hablados en Panamá y en América, tomando conciencia de las variantes lingüísticas."
+            ]
+          },
+          {
+            "tema": "Registros lingüísticos",
+            "conceptual": "Características de los registros de la lengua: coloquial o familiar, vulgar, culto, técnico y literario.",
+            "procedimental": "Reconocimiento y diferenciación de la relación entre la situación comunicativa y el registro de la lengua utilizado.",
+            "actitudinal": "Propiedad al usar registros lingüísticos acordes con distintas situaciones comunicativas.",
+            "actividades": [
+              "Observa videos con diversos registros lingüísticos y los agrupa según sus características.",
+              "Identifica, en plenaria, a qué registro lingüístico corresponde el lenguaje de una dramatización.",
+              "Reescribe modelos de textos dados, realizando variaciones de los registros familiar, culto, técnico y literario."
+            ],
+            "indicadores": [
+              "Identifica, con interés, distintos registros lingüísticos.",
+              "Relaciona situaciones comunicativas con sus correspondientes registros."
+            ]
+          },
+          {
+            "tema": "Sistema fonológico del español",
+            "conceptual": "Reconocimiento de las características de la pronunciación de fonemas vocálicos y consonánticos del español y la relación entre entonación e intención del hablante.",
+            "procedimental": "Pronunciación y análisis de fonemas vocálicos y consonánticos. Análisis de la relación entre la entonación y la intención del hablante.",
+            "actitudinal": "Aprecio del nivel fonológico del idioma español y la pronunciación correcta de cada fonema. Valoración de la intención comunicativa mediante la entonación.",
+            "actividades": [
+              "Pronuncia su nombre completo para que el resto de sus compañeros identifiquen y pronuncien los fonemas vocálicos.",
+              "Lee diversos enunciados con una entonación determinada y el grupo determina la posible intención.",
+              "Practica la entonación para actos comunicativos como persuadir, apelar, preguntar, informar, advertir, entre otros."
+            ],
+            "indicadores": [
+              "Identifica correctamente los fonemas vocálicos y consonánticos.",
+              "Deduce la intención comunicativa del emisor mediante la entonación dada en un contexto."
+            ]
+          },
+          {
+            "tema": "El pronombre",
+            "conceptual": "Concepto y características del pronombre. Empleo de pronombres como mecanismo de deixis y para evitar repeticiones.",
+            "procedimental": "Clasificación de pronombres en personales, demostrativos, relativos, posesivos, indefinidos, interrogativos y exclamativos. Uso de pronombres como anáfora y catáfora en textos.",
+            "actitudinal": "Interés por comunicarse de una manera precisa y económica, sustituyendo sustantivos por pronombres. Valoración de la deixis como recurso para redactar textos cohesionados.",
+            "actividades": [
+              "Participa en una lluvia de ideas con las características de los pronombres y construye, en plenaria, la definición de su concepto.",
+              "Investiga el concepto y la clasificación de los pronombres y elabora un organizador gráfico.",
+              "Lee un texto y subraya los pronombres que identifica.",
+              "Redacta un microrrelato usando un pronombre de cada clase.",
+              "Lee un texto modelo en el que se utilice la anáfora y la catáfora, con la guía del docente.",
+              "Resuelve ejercicios en los que aplique ambos mecanismos de cohesión."
+            ],
+            "indicadores": [
+              "Identifica pronombres según su clase y su función dentro del texto.",
+              "Utiliza pronombres con una finalidad deíctica."
+            ],
+            "subtemas": [
+              {
+                "tema": "Clases de pronombres",
+                "conceptual": "Clasificación: personales, demostrativos, relativos, posesivos, indefinidos, interrogativos y exclamativos.",
+                "procedimental": "Identificación y uso de cada clase de pronombres.",
+                "actitudinal": "Aprovechamiento de las posibilidades comunicativas de las diversas clases de pronombres.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Deixis",
+                "conceptual": "Empleo de pronombres como mecanismo de deixis (anáfora y catáfora) para evitar repeticiones en la producción textual.",
+                "procedimental": "Uso de pronombres en textos para lograr cohesión.",
+                "actitudinal": "Valoración de la deixis como recurso para redactar textos cohesionados.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "El verbo",
+            "conceptual": "Reconocimiento del concepto y la función del verbo. Identificación de partes del verbo (raíz, desinencias: persona, número, tiempo, modo).",
+            "procedimental": "Empleo de verbos en distintos tiempos y modos verbales. Reconocimiento y conjugación de verbos regulares e irregulares, en modos indicativo, subjuntivo e imperativo.",
+            "actitudinal": "Aprecio por la capacidad del verbo de expresar acciones o estados en la oración. Conciencia de la importancia de la conjugación para transmitir sentidos particulares y específicos.",
+            "actividades": [
+              "Confecciona un esquema sobre la definición y función del verbo.",
+              "Completa oraciones con verbos tomados de una batería de palabras.",
+              "Extrae los verbos de un texto proporcionado por el docente y determina el sentido que aportan las desinencias.",
+              "Investiga el concepto, las características y ejemplos de verbos regulares e irregulares.",
+              "Selecciona conjugaciones para practicar, participa en dinámicas de conjugación como 'El bingo de los verbos' o en juegos de tablero.",
+              "Redacta oraciones y textos aplicando conjugaciones estudiadas.",
+              "Elabora un cuadro comparativo de conjugaciones difíciles, con indicaciones: 'Se dice… debe decirse…'."
+            ],
+            "indicadores": [
+              "Explica el concepto de verbo y su función en el texto.",
+              "Utiliza verbos en distintos tiempos y modos verbales.",
+              "Analiza desinencias de verbos irregulares.",
+              "Clasifica verbos como regulares o irregulares.",
+              "Conjuga verbos regulares en tiempos simples y compuestos de los modos indicativo y subjuntivo.",
+              "Conjuga verbos en modo indicativo, subjuntivo e imperativo."
+            ],
+            "subtemas": [
+              {
+                "tema": "Partes del verbo (morfemas)",
+                "conceptual": "Raíz y desinencias del verbo: persona, número, tiempo, modo.",
+                "procedimental": "Reconocimiento del significado y función de las desinencias.",
+                "actitudinal": "Interés por la composición morfológica y cambios de sentido de los verbos.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Verbos regulares e irregulares",
+                "conceptual": "Identificación de verbos regulares e irregulares.",
+                "procedimental": "Clasificación y conjugación de verbos según su regularidad.",
+                "actitudinal": "Precisión al identificar verbos irregulares.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Modos verbales",
+                "conceptual": "Modos: indicativo, subjuntivo, imperativo.",
+                "procedimental": "Conjugación de verbos regulares e irregulares en los diferentes modos.",
+                "actitudinal": "Conciencia de la diversidad de matices de sentido de los modos verbales.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Tiempos simples y compuestos de los modos indicativo y subjuntivo",
+                "conceptual": "Conjugación de verbos regulares en todos los tiempos de los modos estudiados.",
+                "procedimental": "Práctica y aplicación de conjugaciones en textos.",
+                "actitudinal": "Valor de la conjugación para transmitir sentidos particulares.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "Verbos transitivos e intransitivos",
+            "conceptual": "Concepto, características y usos de verbos transitivos e intransitivos.",
+            "procedimental": "Construcción y análisis de oraciones con verbos transitivos (con objeto directo) e intransitivos (sin objeto directo).",
+            "actitudinal": "Propiedad al construir oraciones considerando las propiedades sintácticas.",
+            "actividades": [
+              "Elabora un cuadro comparativo de los verbos transitivos e intransitivos, con ejemplos.",
+              "Clasifica verbos en oraciones según su función.",
+              "Escribe oraciones inspiradoras con ambos tipos de verbos."
+            ],
+            "indicadores": [
+              "Explica el concepto de verbos transitivos e intransitivos.",
+              "Identifica la función de los verbos en oraciones.",
+              "Redacta oraciones con verbos transitivos e intransitivos."
+            ]
+          },
+          {
+            "tema": "Locuciones conjuntivas",
+            "conceptual": "Concepto, características, funciones y ejemplos de locuciones conjuntivas.",
+            "procedimental": "Identificación, comparación y utilización de locuciones conjuntivas en textos.",
+            "actitudinal": "Precisión al emplear locuciones conjuntivas.",
+            "actividades": [
+              "Investiga modelos de locuciones conjuntivas según sus clases: coordinantes y subordinantes.",
+              "Participa en una competencia de redacción de oraciones con locuciones conjuntivas.",
+              "Compara y discute las funciones en plenaria.",
+              "Redacta un párrafo usando locuciones de ambas clases."
+            ],
+            "indicadores": [
+              "Identifica locuciones conjuntivas.",
+              "Contrasta locuciones conjuntivas según su función en el texto.",
+              "Emplea locuciones conjuntivas en la redacción de textos."
+            ]
+          },
+          {
+            "tema": "Locuciones preposicionales",
+            "conceptual": "Concepto, características, funciones y ejemplos de locuciones preposicionales.",
+            "procedimental": "Identificación y uso de locuciones preposicionales en oraciones y textos.",
+            "actitudinal": "Interés por el uso correcto de locuciones preposicionales.",
+            "actividades": [
+              "Escribe oraciones con locuciones preposicionales seleccionadas al azar.",
+              "Evalúa cómo cambiaría la oración al emplear otra locución.",
+              "Redacta textos utilizando locuciones estudiadas."
+            ],
+            "indicadores": [
+              "Identifica locuciones preposicionales.",
+              "Contrasta y evalúa el uso de diferentes locuciones.",
+              "Emplea locuciones preposicionales en la redacción de textos."
+            ]
+          },
+          {
+            "tema": "Locuciones adverbiales",
+            "conceptual": "Concepto, características, funciones y ejemplos de locuciones adverbiales.",
+            "procedimental": "Identificación y uso de locuciones adverbiales en textos.",
+            "actitudinal": "Propiedad y orden al construir textos con locuciones adverbiales.",
+            "actividades": [
+              "Explica el sentido de locuciones adverbiales de uso común.",
+              "Narra por escrito un pasaje usando locuciones adverbiales.",
+              "Lee y discute en grupo la función de cada locución en el texto."
+            ],
+            "indicadores": [
+              "Identifica locuciones adverbiales.",
+              "Analiza y emplea locuciones adverbiales en la redacción de textos.",
+              "Contrasta locuciones adverbiales dentro del contexto."
+            ]
+          },
+          {
+            "tema": "El sujeto",
+            "conceptual": "Características, estructura y tipos de sujeto (según participación: agente, paciente; expresión: expreso, tácito; número de núcleos: simple, compuesto).",
+            "procedimental": "Análisis morfosintáctico del sujeto como componente oracional y clasificación según sus tipos.",
+            "actitudinal": "Valoración de la importancia y formas del sujeto en español.",
+            "actividades": [
+              "Participa en una lluvia de ideas para definir sujeto.",
+              "Analiza palabras que componen sujetos en una lista.",
+              "Clasifica sujetos en oraciones según su tipo.",
+              "Crea oraciones con diversos tipos de sujetos."
+            ],
+            "indicadores": [
+              "Analiza el sujeto oracional, con base en su estructura.",
+              "Delimita sujetos según expresión, cantidad de núcleos y tipo de participación."
+            ],
+            "subtemas": [
+              {
+                "tema": "Estructura del sujeto",
+                "conceptual": "Análisis morfosintáctico del sujeto como componente oracional.",
+                "procedimental": "Identificación de los elementos estructurales del sujeto.",
+                "actitudinal": "Valoración de la importancia del sujeto y su presencia explícita o desinencial.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Tipos de sujeto",
+                "conceptual": "Clasificación de sujetos: agentes y pacientes, expresos y tácitos, simples y compuestos.",
+                "procedimental": "Identificación y clasificación en textos.",
+                "actitudinal": "Conciencia de las diferentes formas que puede asumir el sujeto.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "El predicado",
+            "conceptual": "Características y tipos de predicado: nominal y verbal. Identificación de elementos estructurales del predicado y sus complementos.",
+            "procedimental": "Análisis y clasificación de predicados. Redacción de textos con predicado nominal y verbal.",
+            "actitudinal": "Interés por construir diferentes tipos de oraciones según los sentidos precisos requeridos.",
+            "actividades": [
+              "Lee oraciones e identifica los predicados.",
+              "Analiza la función de las palabras en el predicado.",
+              "Arma rompecabezas con componentes oracionales.",
+              "Redacta textos aplicando diferentes tipos de predicado."
+            ],
+            "indicadores": [
+              "Detalla las características del predicado oracional.",
+              "Analiza el predicado nominal y verbal según la función de sus elementos."
+            ],
+            "subtemas": [
+              {
+                "tema": "Predicado nominal",
+                "conceptual": "Estructura del predicado nominal.",
+                "procedimental": "Identificación y análisis morfosintáctico.",
+                "actitudinal": "Precisión en la interpretación de la función sintáctica.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Predicado verbal",
+                "conceptual": "Identificación de complementos: objeto directo, indirecto y circunstancial.",
+                "procedimental": "Clasificación y análisis de complementos verbales.",
+                "actitudinal": "Seguridad en el análisis de los elementos estructurales del predicado verbal.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "La oración simple",
+            "conceptual": "Características, tipos (copulativas, predicativas: transitivas, intransitivas; pasivas) y clasificación de oraciones simples.",
+            "procedimental": "Reconocimiento, clasificación y utilización de oraciones simples en la producción textual. Corrección de errores de ortografía y sintaxis en oraciones simples.",
+            "actitudinal": "Valoración de la oración simple como unidad sintáctica fundamental del idioma español.",
+            "actividades": [
+              "Saca fichas de una caja de enunciados y determina cuáles de ellas corresponden a oraciones simples.",
+              "Analiza en su cuaderno las oraciones simples que encontró.",
+              "Clasifica las oraciones según su tipo en copulativas, predicativas (transitivas, intransitivas) o pasivas.",
+              "Redacta, en equipos, oraciones de un tipo establecido previamente.",
+              "Coevalúa las oraciones que construyó un compañero y corrige aquellas que presenten errores en su construcción."
+            ],
+            "indicadores": [
+              "Identifica oraciones simples, según los complementos presentes.",
+              "Clasifica, con seguridad, oraciones simples como copulativas, predicativas o pasivas.",
+              "Emplea oraciones simples en la redacción de textos, evitando errores de ortografía y sintaxis.",
+              "Corrige oraciones simples de acuerdo con las estructuras gramaticales estudiadas."
+            ],
+            "subtemas": [
+              {
+                "tema": "Características"
+              },
+              {
+                "tema": "Oraciones copulativas"
+              },
+              {
+                "tema": "Oraciones predicativas (transitivas, intransitivas)"
+              },
+              {
+                "tema": "Oraciones pasivas"
+              }
+            ]
+          }
+        ]
+      },
+       {
+        "area": "Comprensión lectora",
+        "objetivos": [
+          "Distingue la intención comunicativa del lenguaje en situaciones académicas, sociales y familiares para comprender mejor los discursos.",
+          "Analiza la estructura de los textos de acuerdo con la intención comunicativa para apropiarse de los significados y del mensaje.",
+          "Valora los componentes objetivo y subjetivo de diversos tipos de textos para asimilar distintos aspectos de significado."
+        ],
+        "contenidos": [
+          {
+            "tema": "Lectura comprensiva de textos literarios y no literarios",
+            "conceptual": "Aplicación de estrategias de comprensión lectora antes, durante y después de la lectura, y en los niveles literal, inferencial y crítico.",
+            "procedimental": "Utilización de estrategias de comprensión lectora en los momentos antes, durante y después de la lectura. Responder a preguntas de nivel literal, inferencial y crítico.",
+            "actitudinal": "Manifestación positiva ante el uso de estrategias de comprensión lectora. Confianza en la demostración de habilidades de comprensión lectora.",
+            "actividades": [
+              "Lee, en equipo, un texto literario y otro no literario.",
+              "Analiza el tipo de información que se produce antes, durante y después de la lectura.",
+              "Aplica estrategias como predicción-verificación, visualización y autopregunta.",
+              "Confecciona un cuadro comparativo con preguntas y respuestas de cada nivel de comprensión."
+            ],
+            "indicadores": [
+              "Demuestra habilidades de comprensión lectora antes, durante y después de la lectura.",
+              "Aplica, de manera efectiva, estrategias de comprensión lectora en los niveles literal, inferencial y crítico."
+            ]
+          },
+          {
+            "tema": "Técnicas de lectura activa",
+            "conceptual": "Práctica de los propósitos y usos de la lectura activa.",
+            "procedimental": "Utilización de la técnica de lectura activa para recordar y comprender el contenido de un texto (realizar preguntas, tomar notas, subrayar, resumir, relacionar la información con conocimientos previos).",
+            "actitudinal": "Valoración de la importancia de la lectura activa en situaciones familiares, escolares y del entorno.",
+            "actividades": [
+              "Lee un texto de manera convencional y luego lo relee utilizando técnicas de lectura oral.",
+              "Expresa cómo se enriqueció su experiencia lectora gracias a la lectura activa.",
+              "Practica la técnica de lectura activa para el estudio de otras asignaturas y presenta un informe sobre las estrategias que utilizó."
+            ],
+            "indicadores": [
+              "Practica, con interés, la técnica de la lectura activa en textos de diferente complejidad.",
+              "Analiza, con seguridad, textos sugeridos o de su interés mediante la técnica de lectura activa."
+            ]
+          },
+          {
+            "tema": "Progresión temática",
+            "conceptual": "Explicación del concepto y las características de la progresión temática.",
+            "procedimental": "Descomposición y jerarquización de información en un texto para identificar el tipo de progresión temática.",
+            "actitudinal": "Interés por el reconocimiento y la utilidad de la progresión temática.",
+            "actividades": [
+              "Descompone un texto en las oraciones que lo conforman y las organiza para reconstruir el texto.",
+              "Elige un texto e identifica la información que aporta en su comienzo, cuerpo y cierre.",
+              "Jerarquiza la información en un organizador gráfico y distingue el tipo de progresión temática.",
+              "Redacta textos aplicando progresiones temáticas lineales, constantes y con tema derivado."
+            ],
+            "indicadores": [
+              "Identifica el concepto y las características de la progresión temática.",
+              "Identifica el tipo de progresión temática de un texto.",
+              "Redacta textos con progresiones temáticas lineales, constantes y con temas derivados."
+            ],
+            "subtemas": [
+              {
+                "tema": "Tipos de progresión temática",
+                "conceptual": "Identificación de tipos: lineal, constante y con tema derivado.",
+                "procedimental": "Aplicación y análisis de los tipos en la producción y comprensión de textos.",
+                "actitudinal": "Curiosidad por comprender la utilidad de los diversos tipos de progresión temática.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "Intención comunicativa de un texto",
+            "conceptual": "Interpretación de la intención comunicativa de un texto: informar, entretener, convencer, educar, expresar una opinión, dar instrucciones.",
+            "procedimental": "Identificación y análisis de la intención comunicativa en diversos textos.",
+            "actitudinal": "Confianza y disposición activa para reconocer la intención comunicativa de los textos.",
+            "actividades": [
+              "Lleva al salón una revista, periódico o libro con textos de diversa índole.",
+              "Elige un texto de cada medio y lo analiza mediante preguntas sobre el propósito del texto.",
+              "Expresa al grupo la intención comunicativa de cada texto analizado."
+            ],
+            "indicadores": [
+              "Identifica, adecuadamente, la intención comunicativa de un texto.",
+              "Analiza, con interés, textos con base en su intención comunicativa."
+            ]
+          },
+          {
+            "tema": "Organizadores gráficos",
+            "conceptual": "Elaboración de organizadores gráficos (diagrama de proceso, esquema de araña y esquema causa-efecto) para comprender la información.",
+            "procedimental": "Síntesis y organización de información en distintos esquemas gráficos.",
+            "actitudinal": "Adquisición de habilidades para la elaboración de organizadores gráficos como material de apoyo para la exposición.",
+            "actividades": [
+              "Investiga sobre la estructura y diseño de los organizadores seleccionados.",
+              "Expone un tema usando un diagrama de proceso, esquema de araña o causa-efecto.",
+              "Confecciona un cartel o presentación digital con organizadores gráficos.",
+              "Resume temas de clases en organizadores estudiados."
+            ],
+            "indicadores": [
+              "Analiza, de forma sintetizada, información mediante diagramas de proceso, esquemas de araña y esquemas de causa y efecto."
+            ]
+          },
+          {
+            "tema": "Enciclopedias",
+            "conceptual": "Exploración de las partes y estructura de las enciclopedias impresas y en línea.",
+            "procedimental": "Búsqueda y organización de información en enciclopedias impresas y digitales.",
+            "actitudinal": "Valoración de la información recabada en enciclopedias. Adquisición de espíritu crítico.",
+            "actividades": [
+              "Elabora, en una plenaria, una definición de enciclopedia a partir de una lluvia de ideas.",
+              "Realiza una comparación entre enciclopedias impresas y en línea mediante una organización gráfica.",
+              "Redacta un informe escrito sobre una investigación realizada a partir de artículos enciclopédicos."
+            ],
+            "indicadores": [
+              "Analiza la estructura de una enciclopedia, con base en conocimientos previos.",
+              "Organiza, adecuadamente, la información obtenida en enciclopedias impresas y en línea."
+            ]
+          },
+          {
+            "tema": "Prensa digital",
+            "conceptual": "Análisis del concepto y características de la prensa digital: secciones y paratextos (títulos, subtítulos, enlaces, menús, elementos gráficos).",
+            "procedimental": "Identificación e interpretación de la información y paratextos de la prensa digital. Comparación crítica de información publicada en diferentes medios digitales.",
+            "actitudinal": "Interés por la lectura crítica de la información publicada en la prensa digital.",
+            "actividades": [
+              "Analiza y discute en grupos los pros y contras del uso de las TIC en la difusión de información.",
+              "Compara, en medios digitales, dos noticias sobre hechos recientes.",
+              "Identifica las características y elementos paratextuales de las noticias.",
+              "Consulta medios digitales nacionales e internacionales y contrasta las secciones y manejo del contenido."
+            ],
+            "indicadores": [
+              "Analiza el concepto de prensa digital.",
+              "Evalúa la calidad de la información emitida en prensa digital.",
+              "Interpreta los paratextos mediante sus funciones e inferencias.",
+              "Compara, con sentido crítico, la información publicada en varios medios digitales."
+            ]
+          },
+          {
+            "tema": "Géneros multimodales",
+            "conceptual": "Identificación y análisis de las características de los textos multimodales: cine, televisión, historietas y audiolibros.",
+            "procedimental": "Lectura, visualización y análisis de los recursos expresivos de los textos multimodales.",
+            "actitudinal": "Curiosidad, gusto y juicio crítico por la lectura, análisis y comparación de temas presentes en los textos multimodales.",
+            "actividades": [
+              "Visiona o escucha dos textos multimodales de distintos tipos (cine, televisión, historieta, audiolibro).",
+              "Escribe una composición sobre las diferencias expresivas y formales entre tipos de textos multimodales.",
+              "Evalúa películas, programas de televisión e historietas según criterios de estructura, finalidad, recursos y elementos literarios o visuales.",
+              "Elabora historietas y participa en exposiciones, debates o foros sobre los distintos géneros."
+            ],
+            "indicadores": [
+              "Define el concepto de género multimodal de acuerdo a sus características.",
+              "Compara textos multimodales mediante la lectura y análisis de sus contenidos."
+            ],
+            "subtemas": [
+              {
+                "tema": "Cine",
+                "conceptual": "Análisis de películas a partir de convenciones cinematográficas (guion, actuación, escenografía, vestuario, banda sonora).",
+                "procedimental": "Visualización y análisis de películas.",
+                "actitudinal": "Gusto por la apreciación del arte cinematográfico.",
+                "actividades": [
+                  "Confecciona una infografía con los elementos más sobresalientes del cine.",
+                  "Evalúa una película en equipos, exponiendo los aspectos más importantes en un cineforo guiado."
+                ],
+                "indicadores": [
+                  "Analiza películas según categorías cinematográficas puntuales."
+                ]
+              },
+              {
+                "tema": "Televisión",
+                "conceptual": "Análisis de programas de televisión de acuerdo con su finalidad y recursos empleados.",
+                "procedimental": "Seguimiento y análisis de programas seleccionados.",
+                "actitudinal": "Juicio crítico ante los programas de televisión.",
+                "actividades": [
+                  "Da seguimiento durante un plazo determinado a un programa de televisión seleccionado.",
+                  "Anota información sobre tipo, finalidad y recursos del programa.",
+                  "Debate sobre la función social de la televisión."
+                ],
+                "indicadores": [
+                  "Analiza programas de televisión según su finalidad."
+                ]
+              },
+              {
+                "tema": "Historietas",
+                "conceptual": "Interpretación de historietas considerando el balance narrativo entre ilustraciones y textos.",
+                "procedimental": "Lectura, creación y análisis de historietas.",
+                "actitudinal": "Valoración de la historieta como expresión artística.",
+                "actividades": [
+                  "Investiga y evalúa los temas y elementos gráficos y literarios en historietas populares.",
+                  "Elabora historietas sobre temas de interés y participa en exposiciones."
+                ],
+                "indicadores": [
+                  "Interpreta historietas considerando sus elementos gráficos y literarios.",
+                  "Elabora historietas de forma creativa sobre temas de interés."
+                ]
+              },
+              {
+                "tema": "Audiolibros",
+                "conceptual": "Determinación de las características de los audiolibros a partir de la escucha.",
+                "procedimental": "Escucha y análisis de fragmentos de audiolibros.",
+                "actitudinal": "Valoración del aspecto auditivo del lenguaje.",
+                "actividades": [
+                  "Escucha el fragmento de un audiolibro y comenta sus características.",
+                  "Aplica la técnica de visualización mientras escucha y luego ilustra imágenes mentales.",
+                  "Resume el contenido del fragmento escuchado en un organizador gráfico.",
+                  "Graba un video o pódcast sobre los temas escuchados."
+                ],
+                "indicadores": [
+                  "Aprecia fragmentos de audiolibros mediante la técnica de visualización."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+       {
+        "area": "Apreciación y creación literaria",
+        "objetivos": [
+          "Compara las relaciones entre la literatura y la vida para asociar mejor los textos literarios con situaciones reales de su contexto.",
+          "Analiza obras de diferentes géneros literarios a partir de su estructura y recursos para cultivar el gusto por los buenos textos, enriquecer su acervo cultural y aplicar las experiencias en la solución de problemas en situaciones cotidianas.",
+          "Extrapola mensajes valiosos extraídos de obras literarias representativas para reflexionar sobre su valor estético e ideológico para su realidad.",
+          "Produce textos literarios de diferentes géneros para el deleite y crecimiento sociocultural propio y el de las personas que configuran su entorno."
+        ],
+        "contenidos": [
+          {
+            "tema": "Textos literarios",
+            "conceptual": "Diferenciación de textos literarios y no literarios según su función, estructura y recursos.",
+            "procedimental": "Comparación de textos literarios y no literarios. Identificación de las características literarias en ejemplos dados.",
+            "actitudinal": "Valoración de la literatura como expresión artística y cultural.",
+            "actividades": [
+              "Lee textos literarios y no literarios y los compara según su función, estructura y recursos.",
+              "Expone las diferencias en un cuadro comparativo.",
+              "Elabora un glosario con vocabulario literario nuevo encontrado en los textos."
+            ],
+            "indicadores": [
+              "Diferencia textos literarios y no literarios en ejemplos propuestos.",
+              "Identifica características de los textos literarios.",
+              "Valora la literatura como expresión artística y cultural."
+            ]
+          },
+          {
+            "tema": "Literatura oral y escrita",
+            "conceptual": "Reconocimiento de la tradición oral y la literatura escrita, su origen y trascendencia.",
+            "procedimental": "Identificación y recopilación de ejemplos de literatura oral y escrita en la comunidad.",
+            "actitudinal": "Aprecio por las manifestaciones literarias de la tradición oral y escrita en la cultura local y global.",
+            "actividades": [
+              "Investiga ejemplos de literatura oral y escrita en su entorno.",
+              "Recopila leyendas, mitos, cuentos y canciones de tradición oral.",
+              "Presenta una antología personal de literatura oral y escrita."
+            ],
+            "indicadores": [
+              "Reconoce la tradición oral y escrita como parte de la herencia cultural.",
+              "Valora la importancia de preservar las expresiones literarias de la comunidad."
+            ]
+          },
+          {
+            "tema": "El mito",
+            "conceptual": "Definición y características del mito como texto literario que explica hechos y fenómenos mediante relatos de carácter fantástico.",
+            "procedimental": "Análisis de mitos locales y universales. Elaboración de cuadros comparativos de mitos según su origen.",
+            "actitudinal": "Curiosidad e interés por las historias míticas como parte del patrimonio cultural.",
+            "actividades": [
+              "Lee y analiza mitos panameños y universales.",
+              "Elabora un cuadro comparativo sobre sus estructuras y personajes.",
+              "Redacta un mito original sobre un fenómeno natural o social."
+            ],
+            "indicadores": [
+              "Explica el concepto y las características del mito.",
+              "Analiza e interpreta mitos según su contexto de origen.",
+              "Produce relatos míticos originales."
+            ]
+          },
+          {
+            "tema": "La novela",
+            "conceptual": "Concepto y características de la novela. Reconocimiento de la estructura (planteamiento, desarrollo, desenlace) y elementos (personajes, ambiente, tiempo, narrador).",
+            "procedimental": "Lectura y análisis de novelas breves o fragmentos. Identificación de los elementos estructurales y caracterización de personajes.",
+            "actitudinal": "Interés por la lectura de novelas y valoración de su importancia en la formación personal y cultural.",
+            "actividades": [
+              "Lee una novela breve o fragmentos seleccionados.",
+              "Identifica y describe los personajes principales y secundarios.",
+              "Elabora una línea del tiempo con los principales eventos de la historia.",
+              "Expone, en equipos, la estructura y los elementos de la novela leída."
+            ],
+            "indicadores": [
+              "Reconoce los elementos y la estructura de la novela.",
+              "Caracteriza personajes principales y secundarios.",
+              "Valora la novela como género literario relevante."
+            ],
+            "subtemas": [
+              {
+                "tema": "Estructura de la novela",
+                "conceptual": "Identificación de las partes de la novela: planteamiento, desarrollo, desenlace.",
+                "procedimental": "Análisis estructural de fragmentos o novelas.",
+                "actitudinal": "Interés por la organización interna del relato novelístico.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Elementos de la novela",
+                "conceptual": "Reconocimiento de personajes, ambiente, tiempo y narrador.",
+                "procedimental": "Descripción y análisis de los elementos en la novela leída.",
+                "actitudinal": "Aprecio por la diversidad de elementos que componen la novela.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Comparación de diversas novelas",
+                "conceptual": "Contraste entre novelas de diferentes autores, épocas o estilos.",
+                "procedimental": "Lectura comparativa y discusión crítica.",
+                "actitudinal": "Apertura a la diversidad literaria.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Importancia de la novela en la promoción de la lectura",
+                "conceptual": "Reflexión sobre el valor formativo y cultural de la novela.",
+                "procedimental": "Análisis y exposición de experiencias lectoras.",
+                "actitudinal": "Motivación hacia la lectura autónoma de novelas.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "La poesía",
+            "conceptual": "Definición y características de la poesía como género literario. Identificación de tipos de poesía (lírica y épica) y recursos literarios.",
+            "procedimental": "Lectura, análisis e interpretación de poemas. Reconocimiento de las figuras literarias y su efecto expresivo.",
+            "actitudinal": "Gusto y sensibilidad por la expresión poética.",
+            "actividades": [
+              "Lee y comenta poemas de autores nacionales y universales.",
+              "Identifica y ejemplifica recursos literarios (metáfora, símil, anáfora, hipérbole, etc.).",
+              "Escribe poemas originales usando diferentes recursos poéticos."
+            ],
+            "indicadores": [
+              "Distingue las características y tipos de poesía.",
+              "Reconoce y ejemplifica figuras literarias.",
+              "Crea textos poéticos personales."
+            ],
+            "subtemas": [
+              {
+                "tema": "La poesía lírica",
+                "conceptual": "Características de la lírica: subjetividad, expresión de sentimientos y emociones.",
+                "procedimental": "Lectura y análisis de poemas líricos.",
+                "actitudinal": "Identificación con la expresión de emociones en la poesía.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "La poesía épica",
+                "conceptual": "Características de la épica: relato de hazañas, personajes heroicos, narrador objetivo.",
+                "procedimental": "Lectura y análisis de poemas épicos.",
+                "actitudinal": "Interés por la narrativa de hechos históricos y legendarios.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Figuras literarias",
+                "conceptual": "Definición y ejemplificación de figuras literarias: metáfora, símil, anáfora, hipérbole, entre otras.",
+                "procedimental": "Identificación y aplicación de figuras literarias en textos.",
+                "actitudinal": "Apreciación del valor estético de los recursos literarios.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Figuras de dicción",
+                "conceptual": "Definición y ejemplos de aliteración, anáfora, elipsis, hipérbaton.",
+                "procedimental": "Identificación y creación de versos o textos usando estas figuras.",
+                "actitudinal": "Juego creativo con la forma del lenguaje.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Figuras de pensamiento",
+                "conceptual": "Definición y ejemplos de metáfora, símil, antítesis, paradoja.",
+                "procedimental": "Reconocimiento y uso en la lectura y creación literaria.",
+                "actitudinal": "Valoración de la profundidad conceptual de la poesía.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "El teatro",
+            "conceptual": "Definición y características del teatro como género literario. Historia, subgéneros (comedia, tragedia, drama) e importancia de las obras teatrales.",
+            "procedimental": "Lectura, análisis y representación de fragmentos teatrales. Reconocimiento de las características estructurales y del lenguaje teatral.",
+            "actitudinal": "Disposición para la participación en actividades teatrales. Valoración del teatro como medio de expresión artística y social.",
+            "actividades": [
+              "Lee y analiza fragmentos teatrales de autores reconocidos.",
+              "Organiza la lectura dramatizada o representación de escenas.",
+              "Investiga y expone sobre la historia y subgéneros del teatro.",
+              "Participa en debates sobre temas planteados en obras teatrales."
+            ],
+            "indicadores": [
+              "Reconoce las características y elementos del teatro.",
+              "Participa en actividades teatrales con responsabilidad.",
+              "Analiza el mensaje y la relevancia de obras teatrales."
+            ],
+            "subtemas": [
+              {
+                "tema": "Historia del teatro",
+                "conceptual": "Evolución del teatro desde la antigüedad hasta la actualidad.",
+                "procedimental": "Investigación y presentación de hitos teatrales.",
+                "actitudinal": "Apertura hacia la diversidad histórica y cultural del teatro.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Subgéneros del teatro",
+                "conceptual": "Características y diferencias entre comedia, tragedia y drama.",
+                "procedimental": "Análisis y clasificación de obras y fragmentos.",
+                "actitudinal": "Interés por la variedad de formas teatrales.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Importancia de las obras teatrales",
+                "conceptual": "Reflexión sobre el valor educativo, ético y estético del teatro.",
+                "procedimental": "Discusión y exposición de la vigencia del teatro en la sociedad.",
+                "actitudinal": "Valoración del teatro como medio de transformación social.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Comparación de obras teatrales",
+                "conceptual": "Contraste de obras teatrales según época, autor o mensaje.",
+                "procedimental": "Lectura y análisis comparativo.",
+                "actitudinal": "Curiosidad y espíritu crítico frente a la diversidad teatral.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "El Plan Nacional de Lectura panameño",
+            "conceptual": "Conocimiento de los objetivos, estrategias y materiales sugeridos en el Plan Nacional de Lectura.",
+            "procedimental": "Lectura, análisis y aplicación de estrategias del Plan Nacional de Lectura en la práctica escolar.",
+            "actitudinal": "Compromiso con el fomento de la lectura y el desarrollo del hábito lector.",
+            "actividades": [
+              "Investiga los principales lineamientos del Plan Nacional de Lectura.",
+              "Participa en campañas y jornadas de promoción de la lectura.",
+              "Presenta sugerencias y actividades creativas basadas en el plan."
+            ],
+            "indicadores": [
+              "Identifica los objetivos y estrategias del Plan Nacional de Lectura.",
+              "Aplica actividades sugeridas por el plan en su contexto escolar.",
+              "Muestra interés por el fomento del hábito lector."
+            ]
+          },
+          {
+            "tema": "Normas de escritura y ortografía en la creación literaria",
+            "conceptual": "Aplicación de normas ortográficas y gramaticales en la escritura de textos literarios.",
+            "procedimental": "Corrección y edición de textos creativos respetando las normas de la lengua.",
+            "actitudinal": "Responsabilidad y rigor en la presentación de textos literarios.",
+            "actividades": [
+              "Redacta y revisa poemas, cuentos o escenas teatrales, aplicando normas de ortografía y gramática.",
+              "Participa en talleres de corrección y edición colectiva de textos.",
+              "Elabora un manual práctico de normas ortográficas para escritores jóvenes."
+            ],
+            "indicadores": [
+              "Aplica normas de escritura y ortografía en textos creativos.",
+              "Corrige y edita textos respetando las reglas del idioma."
+            ]
+          },
+          {
+            "tema": "La creación literaria y la identidad nacional",
+            "conceptual": "Relación entre la producción literaria y los valores, costumbres y problemáticas nacionales.",
+            "procedimental": "Elaboración de textos literarios que reflejen la identidad nacional.",
+            "actitudinal": "Orgullo por la expresión literaria de la identidad panameña.",
+            "actividades": [
+              "Redacta cuentos, poemas u obras breves inspiradas en temas, personajes y escenarios nacionales.",
+              "Comparte y debate textos literarios que aborden la identidad nacional.",
+              "Participa en actividades de difusión de autores panameños."
+            ],
+            "indicadores": [
+              "Produce textos literarios vinculados a la identidad nacional.",
+              "Reconoce y valora la diversidad literaria panameña."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+   {
+    "grado": "Duodécimo",
+    "año": "2014",
+    "areas": [
+      {
+        "area": "Comunicación oral y escrita",
+        "objetivos": [
+          "Valorar la importancia de la comunicación eficaz y el papel de las nuevas tecnologías en la sociedad de la información.",
+          "Identificar, analizar y producir mensajes orales y escritos eficaces, reconociendo vicios de dicción y aplicando las máximas de la comunicación y la teoría de la cortesía.",
+          "Enriquecer el léxico, mejorar la ortografía y aplicar correctamente la acentuación, puntuación y entonación.",
+          "Producir textos coherentes y cohesionados, empleando las fases del proceso de redacción y adaptando el registro y las funciones lingüísticas al tipo de texto."
+        ],
+        "contenidos": [
+          {
+            "tema": "La sociedad de la información",
+            "conceptual": "Concepto de sociedad de la información: etapa histórica caracterizada por el acceso y procesamiento masivo de datos y conocimiento gracias a las tecnologías digitales.",
+            "procedimental": "Investigación y análisis sobre el impacto social, económico y cultural de la sociedad de la información. Debate sobre sus ventajas y desventajas.",
+            "actitudinal": "Valoración crítica del papel de la información en la vida cotidiana y del uso responsable de las TIC.",
+            "actividades": [
+              "Investiga y expone en equipo el concepto y las características de la sociedad de la información.",
+              "Debate sobre las ventajas y desventajas de vivir en una sociedad globalizada y digitalizada.",
+              "Redacta un ensayo corto sobre el impacto de la información en la toma de decisiones cotidianas."
+            ],
+            "indicadores": [
+              "Explica el concepto y características de la sociedad de la información.",
+              "Reflexiona críticamente sobre el impacto social, económico y cultural de la información."
+            ]
+          },
+          {
+            "tema": "Las tecnologías de la información y la comunicación (TIC)",
+            "conceptual": "Definición y clasificación de las TIC: herramientas y recursos tecnológicos utilizados para transmitir, procesar, almacenar y gestionar información.",
+            "procedimental": "Reconocimiento y uso básico de distintas TIC: procesador de textos, presentaciones, correo electrónico, chats, redes sociales, blogs, buscadores, bibliotecas virtuales.",
+            "actitudinal": "Apertura a la incorporación de tecnologías para optimizar la comunicación, la investigación y el aprendizaje.",
+            "actividades": [
+              "Investiga diferentes tipos de TIC y sus aplicaciones.",
+              "Realiza presentaciones multimedia utilizando programas de diseño y edición digital.",
+              "Participa en la elaboración de una wiki o blog de clase sobre temas del curso."
+            ],
+            "indicadores": [
+              "Identifica y utiliza correctamente diferentes TIC.",
+              "Valora el aporte de las TIC para la vida académica y personal."
+            ],
+            "subtemas": [
+              {
+                "tema": "Influencia de las TIC en la toma de decisiones",
+                "conceptual": "Analiza cómo las TIC afectan y transforman los procesos de toma de decisiones a nivel personal y social.",
+                "procedimental": "Estudio de casos y reflexión sobre la calidad de la información disponible en internet.",
+                "actitudinal": "Pensamiento crítico ante la abundancia de información en línea.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "Procesamiento automático de la información",
+            "conceptual": "Comprensión del procesamiento de información mediante tecnologías: procesadores de texto, presentaciones, bases de datos, redes sociales, infografías, bibliotecas virtuales.",
+            "procedimental": "Uso práctico de herramientas tecnológicas para organizar, sintetizar y comunicar información.",
+            "actitudinal": "Disposición a emplear tecnología para facilitar la gestión y transmisión eficiente de información.",
+            "actividades": [
+              "Organiza información utilizando tablas, infografías y presentaciones digitales.",
+              "Crea una presentación multimedia que explique un tema del área.",
+              "Elabora un recurso digital (blog, infografía, video, etc.) sobre una temática de actualidad."
+            ],
+            "indicadores": [
+              "Utiliza herramientas tecnológicas para el procesamiento y presentación de información.",
+              "Produce recursos digitales de calidad para la comunicación."
+            ]
+          },
+          {
+            "tema": "Vicios de dicción",
+            "conceptual": "Concepto y tipos de vicios de dicción: barbarismos, solecismos, anfibologías, pleonasmos, cacofonías, dequeísmos y queísmos.",
+            "procedimental": "Identificación y corrección de vicios de dicción en la producción oral y escrita.",
+            "actitudinal": "Responsabilidad en la autocrítica lingüística y en la mejora constante de la expresión.",
+            "actividades": [
+              "Detecta vicios de dicción en textos, grabaciones o conversaciones y los corrige.",
+              "Elabora un glosario ilustrado de los principales vicios de dicción.",
+              "Redacta oraciones evitando o corrigiendo vicios de dicción."
+            ],
+            "indicadores": [
+              "Identifica y corrige vicios de dicción en distintos contextos.",
+              "Demuestra mejora progresiva en la calidad lingüística de sus producciones."
+            ]
+          },
+          {
+            "tema": "Características del mensaje eficaz",
+            "conceptual": "Elementos que definen la eficacia de un mensaje: claridad, precisión, originalidad, objetividad, oportunidad.",
+            "procedimental": "Análisis y producción de mensajes orales y escritos eficaces.",
+            "actitudinal": "Búsqueda constante de efectividad y ética en la comunicación.",
+            "actividades": [
+              "Redacta y expone mensajes sobre temas de interés social, procurando que cumplan con las características estudiadas.",
+              "Evalúa la eficacia de mensajes en medios de comunicación.",
+              "Analiza casos en los que la comunicación falla por carencia de claridad, precisión u oportunidad."
+            ],
+            "indicadores": [
+              "Reconoce y aplica las características del mensaje eficaz.",
+              "Analiza críticamente mensajes de diferente índole."
+            ]
+          },
+          {
+            "tema": "Máximas de la comunicación y teoría de la cortesía",
+            "conceptual": "Principios que rigen la comunicación eficaz: máximas de cantidad, cualidad, relevancia y modo (Grice). Teoría de la cortesía: cortesía positiva y negativa, imagen pública.",
+            "procedimental": "Reconocimiento y aplicación de las máximas y la cortesía en la comunicación cotidiana.",
+            "actitudinal": "Empatía y respeto en las interacciones comunicativas.",
+            "actividades": [
+              "Participa en debates y conversaciones guiadas, analizando el uso de las máximas y las estrategias de cortesía.",
+              "Redacta diálogos aplicando las normas de cortesía lingüística.",
+              "Reflexiona sobre situaciones cotidianas donde fallan las máximas de la comunicación."
+            ],
+            "indicadores": [
+              "Aplica las máximas de la comunicación en sus interacciones.",
+              "Identifica estrategias de cortesía y su función en la vida social."
+            ],
+            "subtemas": [
+              {
+                "tema": "La conversación: tipos, toma de turnos y principio de cooperación",
+                "conceptual": "Definición y características de la conversación: turnos de habla, principio de cooperación, estructura de apertura y cierre.",
+                "procedimental": "Análisis de conversaciones reales. Simulación de situaciones comunicativas.",
+                "actitudinal": "Respeto por la dinámica conversacional y por los interlocutores.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "Comunicación escrita (enriquecimiento léxico, semántica, registros, etc.)",
+            "conceptual": "Importancia del léxico amplio, la propiedad, la precisión y la variedad semántica. Tipos de registros: culto, vulgar, estándar.",
+            "procedimental": "Ampliación de vocabulario. Diferenciación de registros y comprensión de relaciones semánticas: sinonimia, antonimia, hiperonimia, hiponimia, paronimia, homonimia, monosemia, polisemia.",
+            "actitudinal": "Curiosidad y rigor en el uso y aprendizaje de la lengua escrita.",
+            "actividades": [
+              "Construye glosarios y mapas semánticos de palabras nuevas o significativas.",
+              "Ejercita el uso de sinónimos, antónimos y palabras de diferentes registros en textos escritos.",
+              "Clasifica palabras según su campo semántico y registro de uso."
+            ],
+            "indicadores": [
+              "Enriquece su vocabulario y lo utiliza con propiedad.",
+              "Identifica y emplea correctamente los registros de la lengua.",
+              "Diferencia palabras por sus relaciones semánticas."
+            ]
+          },
+          {
+            "tema": "Acentuación ortográfica",
+            "conceptual": "Principios y reglas de la acentuación ortográfica: palabras agudas, graves, esdrújulas y sobreesdrújulas, diptongos, triptongos e hiatos.",
+            "procedimental": "Aplicación de reglas de acentuación en la producción escrita.",
+            "actitudinal": "Responsabilidad y cuidado en la ortografía de la lengua española.",
+            "actividades": [
+              "Realiza ejercicios de clasificación y acentuación de palabras.",
+              "Corrige textos con errores de acentuación.",
+              "Aplica la acentuación en la redacción de textos originales."
+            ],
+            "indicadores": [
+              "Identifica y aplica correctamente las reglas de acentuación.",
+              "Corrige errores ortográficos en textos propios y ajenos."
+            ]
+          },
+          {
+            "tema": "Signos de puntuación, entonación y auxiliares",
+            "conceptual": "Signos de puntuación: punto, coma, punto y coma, dos puntos, puntos suspensivos, comillas, paréntesis, guion, signos de interrogación y exclamación. Función fonética, semántica y pragmática.",
+            "procedimental": "Uso adecuado de los signos de puntuación y entonación en la comunicación escrita.",
+            "actitudinal": "Interés y rigor en la correcta puntuación y entonación de los textos.",
+            "actividades": [
+              "Corrige textos con errores de puntuación.",
+              "Redacta textos de diversos géneros aplicando las normas de puntuación y entonación.",
+              "Lee en voz alta textos con diferentes signos de puntuación para practicar la entonación."
+            ],
+            "indicadores": [
+              "Utiliza correctamente los signos de puntuación y las reglas de entonación.",
+              "Identifica la función de cada signo en un texto."
+            ]
+          },
+          {
+            "tema": "Fases de la redacción o composición",
+            "conceptual": "Etapas del proceso de redacción: invención, disposición, elocución, corrección y publicación. Coherencia, cohesión textual y mecanismos de coherencia y cohesión.",
+            "procedimental": "Planificación, organización, redacción, revisión y edición de textos.",
+            "actitudinal": "Compromiso con la mejora continua de la producción textual.",
+            "actividades": [
+              "Elabora esquemas o mapas conceptuales previos a la escritura.",
+              "Redacta borradores y realiza revisiones en pares.",
+              "Utiliza listas de verificación para autoevaluar y corregir sus textos."
+            ],
+            "indicadores": [
+              "Planifica y organiza el proceso de redacción.",
+              "Redacta textos coherentes y cohesionados.",
+              "Aplica estrategias de revisión y corrección."
+            ]
+          },
+          {
+            "tema": "Funciones lingüísticas y tipos de textos informativos y administrativos",
+            "conceptual": "Funciones del lenguaje: expresiva, conativa, fática, referencial, metalingüística, poética. Tipos de textos: artículos de opinión, noticias, editoriales, crónicas, reseñas, boletines, publicitarios, entrevistas, edictos, científicos, administrativos (circulares, memorandos, actas, hoja de vida, memorial, contrato, certificados, decretos, cotizaciones, compras electrónicas).",
+            "procedimental": "Identificación, análisis y producción de textos según su función y estructura.",
+            "actitudinal": "Interés en la diversidad textual y en la producción responsable de textos funcionales.",
+            "actividades": [
+              "Lee y analiza diferentes tipos de textos según su función y estructura.",
+              "Produce textos de opinión, informativos, científicos y administrativos.",
+              "Participa en simulaciones de situaciones reales de comunicación formal (presentaciones, entrevistas, redacción de solicitudes, etc.)."
+            ],
+            "indicadores": [
+              "Identifica las funciones del lenguaje en diferentes textos.",
+              "Produce textos adecuados al propósito y la situación comunicativa.",
+              "Reconoce la importancia de la función y estructura textual."
+            ]
+          }
+        ]
+      },
+       {
+        "area": "Estructura de la lengua",
+        "objetivos": [
+          "Comprender la estructura y los elementos fundamentales del texto y el discurso.",
+          "Analizar las relaciones de coherencia y cohesión en los textos, diferenciando entre texto, discurso, oración y enunciado.",
+          "Reconocer y aplicar normas lingüísticas en la construcción y corrección de textos.",
+          "Emplear correctamente los mecanismos de progresión temática y cohesión textual en la producción oral y escrita."
+        ],
+        "contenidos": [
+          {
+            "tema": "El texto y la textualidad",
+            "conceptual": "Definición de texto y sus elementos de textualidad (adecuación, coherencia, cohesión, informatividad, intencionalidad, aceptabilidad, situacionalidad, intertextualidad). Diferencia entre texto y discurso.",
+            "procedimental": "Identificación y análisis de los elementos de la textualidad en diversos textos. Diferenciación entre texto y discurso en ejemplos prácticos.",
+            "actitudinal": "Valoración de la importancia de la textualidad y la adecuación del discurso en la comunicación eficaz.",
+            "actividades": [
+              "Analiza textos de distintas naturalezas y señala los elementos de textualidad presentes.",
+              "Elabora un cuadro comparativo entre texto y discurso.",
+              "Expone ejemplos donde la falta de textualidad impida la comprensión del mensaje."
+            ],
+            "indicadores": [
+              "Distingue texto de discurso, identificando los elementos de la textualidad.",
+              "Analiza textos reconociendo los factores de adecuación, coherencia y cohesión."
+            ],
+            "subtemas": [
+              {
+                "tema": "Estructura superficial y profunda del texto",
+                "conceptual": "Reconocimiento de la diferencia entre estructura superficial (lo explícito) y profunda (lo implícito, significado subyacente) en los textos.",
+                "procedimental": "Análisis de ejemplos para distinguir ambos niveles en la comprensión textual.",
+                "actitudinal": "Interés en descubrir los sentidos explícitos e implícitos de los textos.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "Inferencia y coherencia",
+            "conceptual": "La inferencia como proceso cognitivo para comprender significados no explícitos. Coherencia global y lineal, incoherencia textual.",
+            "procedimental": "Ejercicios de inferencia y análisis de la coherencia en textos. Identificación de incoherencias y su corrección.",
+            "actitudinal": "Curiosidad y rigor intelectual al analizar la coherencia e inferir significados en textos complejos.",
+            "actividades": [
+              "Lee textos e infiere información a partir de elementos no explícitos.",
+              "Detecta y corrige incoherencias en textos dados.",
+              "Redacta textos breves aplicando progresión temática coherente."
+            ],
+            "indicadores": [
+              "Realiza inferencias lógicas en la comprensión de textos.",
+              "Reconoce y corrige incoherencias textuales.",
+              "Mantiene coherencia en sus producciones orales y escritas."
+            ]
+          },
+          {
+            "tema": "Progresión temática y mecanismos de cohesión",
+            "conceptual": "Conceptos de tema y rema, progresión temática (lineal, constante, derivada). Mecanismos de cohesión: lexicales (reiteración, sinonimia, hiperonimia), gramaticales (referencia, elipsis, sustitución, conjunciones).",
+            "procedimental": "Identificación y aplicación de los distintos mecanismos de cohesión y tipos de progresión temática en la producción y análisis de textos.",
+            "actitudinal": "Aprecio por la riqueza expresiva y estructural de la lengua al construir textos cohesionados.",
+            "actividades": [
+              "Elabora organizadores gráficos sobre los mecanismos de cohesión textual.",
+              "Redacta textos aplicando diferentes tipos de progresión temática.",
+              "Corrige textos descohesionados usando mecanismos gramaticales y léxicos."
+            ],
+            "indicadores": [
+              "Reconoce y utiliza mecanismos de cohesión en la redacción de textos.",
+              "Identifica la progresión temática en textos analizados.",
+              "Corrige deficiencias de cohesión y progresión temática en producciones propias y ajenas."
+            ],
+            "subtemas": [
+              {
+                "tema": "Progresión de tema continuo, en cadena y derivado",
+                "conceptual": "Definición y ejemplificación de los distintos tipos de progresión temática.",
+                "procedimental": "Análisis y redacción de textos empleando distintos tipos de progresión temática.",
+                "actitudinal": "Valoración del orden lógico en la secuencia de ideas.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          },
+          {
+            "tema": "La oración y el enunciado",
+            "conceptual": "Diferenciación entre oración gramatical (estructura sujeta a reglas sintácticas) y enunciado (unidad mínima de comunicación). Concepto de oración nuclear.",
+            "procedimental": "Clasificación y producción de oraciones y enunciados en textos diversos.",
+            "actitudinal": "Rigor en la construcción de mensajes claros y correctos.",
+            "actividades": [
+              "Clasifica oraciones y enunciados en ejemplos dados.",
+              "Redacta oraciones nucleares a partir de proposiciones mínimas.",
+              "Analiza textos buscando oraciones que funcionen como núcleo del mensaje."
+            ],
+            "indicadores": [
+              "Distingue entre oración y enunciado.",
+              "Identifica oraciones nucleares en textos.",
+              "Construye mensajes con oraciones gramaticalmente correctas."
+            ]
+          },
+          {
+            "tema": "Estructura y tipos de oraciones",
+            "conceptual": "Tipos de oraciones según su estructura: simples y compuestas. Proposición y verboides.",
+            "procedimental": "Identificación y análisis de oraciones simples y compuestas en textos.",
+            "actitudinal": "Interés en la variedad sintáctica y funcionalidad de las oraciones.",
+            "actividades": [
+              "Subraya en un texto oraciones simples y compuestas.",
+              "Clasifica oraciones según sus proposiciones y uso de verboides.",
+              "Redacta ejemplos de cada tipo de oración."
+            ],
+            "indicadores": [
+              "Distingue y clasifica oraciones simples, compuestas y proposiciones.",
+              "Reconoce la función de los verboides en la estructura oracional."
+            ]
+          },
+          {
+            "tema": "Conjugación verbal y verboides",
+            "conceptual": "Formas simples y compuestas del verbo, uso y reconocimiento de verboides (infinitivo, gerundio y participio).",
+            "procedimental": "Conjugación de verbos regulares e irregulares en diferentes tiempos y modos. Empleo de verboides en la construcción de frases y oraciones.",
+            "actitudinal": "Precisión y creatividad en el uso de formas verbales adecuadas al contexto.",
+            "actividades": [
+              "Ejercita la conjugación verbal en tiempos y modos variados.",
+              "Redacta textos utilizando verboides en diferentes contextos.",
+              "Corrige errores comunes en el uso verbal."
+            ],
+            "indicadores": [
+              "Conjuga correctamente verbos regulares e irregulares.",
+              "Identifica y utiliza verboides en la producción textual.",
+              "Corrige errores verbales en textos propios y ajenos."
+            ]
+          },
+          {
+            "tema": "Cohesión discursiva y enlaces gramaticales",
+            "conceptual": "Uso de enlaces gramaticales (conjunciones, preposiciones, pronombres relativos) y mecanismos de cohesión discursiva (elipsis, sustitución, repetición, correlación, anáfora y catáfora).",
+            "procedimental": "Identificación y aplicación de enlaces y mecanismos de cohesión en textos diversos.",
+            "actitudinal": "Interés por lograr textos claros, ordenados y cohesivos.",
+            "actividades": [
+              "Subraya y clasifica enlaces gramaticales en textos.",
+              "Reescribe textos mejorando su cohesión discursiva.",
+              "Identifica casos de elipsis y sustitución en ejemplos prácticos."
+            ],
+            "indicadores": [
+              "Reconoce y utiliza enlaces gramaticales apropiadamente.",
+              "Aplica mecanismos de cohesión discursiva en la producción textual."
+            ]
+          },
+          {
+            "tema": "Subordinación, voz activa y pasiva",
+            "conceptual": "Definición de oraciones subordinadas, uso de voz activa y voz pasiva en la construcción textual.",
+            "procedimental": "Transformación de oraciones activas en pasivas y viceversa. Identificación de subordinadas en textos.",
+            "actitudinal": "Flexibilidad y dominio en la estructuración sintáctica.",
+            "actividades": [
+              "Convierte oraciones de voz activa a pasiva y viceversa.",
+              "Subraya oraciones subordinadas en textos leídos.",
+              "Redacta oraciones subordinadas y las integra en textos complejos."
+            ],
+            "indicadores": [
+              "Distingue entre voz activa y pasiva en la construcción de oraciones.",
+              "Identifica y utiliza oraciones subordinadas correctamente."
+            ]
+          },
+          {
+            "tema": "Normas lingüísticas",
+            "conceptual": "Normas gramaticales, ortográficas y de estilo en la producción oral y escrita.",
+            "procedimental": "Aplicación de normas lingüísticas en la redacción y corrección de textos. Autoevaluación y revisión de errores comunes.",
+            "actitudinal": "Responsabilidad y compromiso con el uso adecuado de la lengua.",
+            "actividades": [
+              "Corrige textos aplicando normas ortográficas y gramaticales.",
+              "Realiza autoevaluaciones de producciones orales y escritas.",
+              "Investiga sobre errores frecuentes y propone estrategias para evitarlos."
+            ],
+            "indicadores": [
+              "Aplica normas lingüísticas correctamente en textos propios y ajenos.",
+              "Identifica y corrige errores lingüísticos comunes."
+            ]
+          }
+        ]
+      },
+        {
+        "area": "Comprensión lectora",
+        "objetivos": [
+          "Desarrollar habilidades para comprender, analizar y valorar textos literarios y no literarios, aplicando estrategias antes, durante y después de la lectura.",
+          "Distinguir y utilizar mecanismos de coherencia y cohesión en la comprensión y producción de textos.",
+          "Analizar críticamente diferentes tipos de textos, identificando su estructura, función, sentido y contexto.",
+          "Aplicar los conocimientos adquiridos en la comprensión lectora a la producción oral y escrita, y a la resolución de problemas académicos y cotidianos."
+        ],
+        "contenidos": [
+          {
+            "tema": "Prelectura y comprensión de textos no literarios",
+            "conceptual": "Fases de la lectura: prelectura, lectura, postlectura. Características y finalidades de los textos no literarios (informativos, publicitarios, jurídicos, científicos, etc.).",
+            "procedimental": "Aplicación de estrategias de prelectura (anticipación, formulación de hipótesis), lectura comprensiva y postlectura (síntesis, resumen, comentario). Identificación de ideas principales y secundarias.",
+            "actitudinal": "Interés y disposición hacia la comprensión de textos funcionales y la mejora de habilidades lectoras.",
+            "actividades": [
+              "Realiza ejercicios de predicción y anticipación antes de la lectura.",
+              "Identifica las ideas principales y secundarias en diferentes textos no literarios.",
+              "Redacta resúmenes y comentarios críticos sobre textos informativos y publicitarios."
+            ],
+            "indicadores": [
+              "Utiliza estrategias de prelectura, lectura y postlectura.",
+              "Distingue y valora las ideas principales y secundarias en textos no literarios.",
+              "Elabora resúmenes y comentarios críticos."
+            ]
+          },
+          {
+            "tema": "Técnicas para comprensión de textos literarios",
+            "conceptual": "Diferencias entre textos literarios y no literarios. Estrategias para la comprensión literaria: análisis de personajes, ambiente, tiempo, narrador, estructura y recursos literarios.",
+            "procedimental": "Lectura, análisis y comentario de textos literarios. Aplicación de técnicas como el subrayado, mapas conceptuales, cuadros comparativos y matrices actanciales.",
+            "actitudinal": "Gusto y apertura hacia la lectura literaria como fuente de disfrute, reflexión y crecimiento personal.",
+            "actividades": [
+              "Lee y analiza textos narrativos, líricos y dramáticos.",
+              "Subraya y comenta fragmentos relevantes para la comprensión global del texto.",
+              "Elabora mapas conceptuales y cuadros comparativos sobre personajes y estructuras narrativas."
+            ],
+            "indicadores": [
+              "Analiza la estructura y los recursos de textos literarios.",
+              "Utiliza técnicas para facilitar la comprensión literaria.",
+              "Realiza comentarios y análisis literarios críticos."
+            ]
+          },
+          {
+            "tema": "Funciones lingüísticas en la lectura",
+            "conceptual": "Funciones del lenguaje presentes en los textos (expresiva, conativa, referencial, fática, metalingüística, poética). Su relación con la intención y el sentido textual.",
+            "procedimental": "Identificación y análisis de funciones lingüísticas en la lectura de diversos textos.",
+            "actitudinal": "Curiosidad y sentido crítico para descubrir la función dominante de cada texto.",
+            "actividades": [
+              "Identifica las funciones lingüísticas predominantes en textos dados.",
+              "Relaciona la función lingüística con la finalidad comunicativa del texto.",
+              "Discute en grupo sobre cómo la función lingüística afecta el sentido textual."
+            ],
+            "indicadores": [
+              "Reconoce las funciones del lenguaje en la lectura de textos.",
+              "Relaciona función y sentido textual."
+            ]
+          },
+          {
+            "tema": "Coherencia y cohesión en la comprensión",
+            "conceptual": "Coherencia global y lineal, mecanismos de cohesión (referencia, elipsis, repetición, conectores, progresión temática).",
+            "procedimental": "Análisis de la coherencia y cohesión en textos leídos. Corrección de incoherencias y deficiencias de cohesión.",
+            "actitudinal": "Rigor en la búsqueda de sentido lógico y organización textual.",
+            "actividades": [
+              "Identifica elementos de cohesión y coherencia en textos.",
+              "Reescribe fragmentos para mejorar su cohesión y coherencia.",
+              "Redacta textos propios aplicando estos mecanismos."
+            ],
+            "indicadores": [
+              "Analiza y mejora la coherencia y cohesión de textos.",
+              "Utiliza adecuadamente mecanismos de cohesión textual."
+            ]
+          },
+          {
+            "tema": "Tipos de textos y estrategias de lectura",
+            "conceptual": "Clasificación de textos (narrativos, descriptivos, expositivos, argumentativos, dialogados). Estrategias para abordar cada tipo textual.",
+            "procedimental": "Identificación de tipos de textos y selección de estrategias de lectura apropiadas.",
+            "actitudinal": "Interés por adaptar las estrategias lectoras según el tipo textual.",
+            "actividades": [
+              "Clasifica textos según su tipología.",
+              "Elabora cuadros de estrategias recomendadas para cada tipo.",
+              "Aplica diferentes estrategias en la lectura de textos variados."
+            ],
+            "indicadores": [
+              "Identifica y clasifica tipos de textos.",
+              "Aplica estrategias adecuadas según el tipo textual."
+            ]
+          },
+          {
+            "tema": "Comentario y análisis de textos",
+            "conceptual": "Estructura y pasos para la elaboración de comentarios y análisis de textos literarios y no literarios.",
+            "procedimental": "Redacción de comentarios, análisis, resúmenes y valoraciones críticas.",
+            "actitudinal": "Disposición a la crítica constructiva y a la argumentación sustentada.",
+            "actividades": [
+              "Redacta comentarios críticos sobre textos leídos.",
+              "Expone oralmente sus análisis y valoraciones.",
+              "Participa en debates y foros literarios."
+            ],
+            "indicadores": [
+              "Elabora comentarios y análisis críticos.",
+              "Sustenta opiniones y valoraciones sobre textos."
+            ]
+          },
+          {
+            "tema": "Inferencia, incoherencia y corrección",
+            "conceptual": "Procesos de inferencia en la lectura, detección de incoherencias, estrategias de corrección y reescritura.",
+            "procedimental": "Aplicación de la inferencia para la comprensión profunda de textos. Corrección y mejora de textos con incoherencias.",
+            "actitudinal": "Curiosidad intelectual y deseo de perfeccionamiento lector y escritor.",
+            "actividades": [
+              "Infiera información implícita en textos complejos.",
+              "Detecta incoherencias y propone mejoras.",
+              "Reescribe textos corrigiendo deficiencias detectadas."
+            ],
+            "indicadores": [
+              "Utiliza la inferencia para profundizar la comprensión.",
+              "Identifica y corrige incoherencias textuales."
+            ]
+          },
+          {
+            "tema": "Matrices actanciales",
+            "conceptual": "Concepto y utilidad de la matriz actancial para el análisis narrativo: identificación de sujetos, objetos, destinadores, destinatarios, ayudantes y oponentes.",
+            "procedimental": "Aplicación de matrices actanciales en el análisis de cuentos, novelas y otros relatos.",
+            "actitudinal": "Interés por el análisis estructural de las historias y la comprensión de roles narrativos.",
+            "actividades": [
+              "Completa matrices actanciales de relatos leídos.",
+              "Discute en grupo la función de cada actante en el desarrollo de la acción.",
+              "Aplica la matriz en la creación de relatos propios."
+            ],
+            "indicadores": [
+              "Analiza relatos utilizando la matriz actancial.",
+              "Identifica correctamente los diferentes actantes en textos narrativos."
+            ]
+          },
+          {
+            "tema": "Niveles de la lengua y isotopías",
+            "conceptual": "Diferenciación de niveles fonético-fonológico, morfológico, semántico en los textos. Definición de isotopía y su identificación en la lectura.",
+            "procedimental": "Análisis de textos considerando los diferentes niveles y la presencia de isotopías.",
+            "actitudinal": "Curiosidad y apertura a la riqueza y multiplicidad de sentidos en la lengua.",
+            "actividades": [
+              "Identifica niveles de análisis en textos diversos.",
+              "Detecta isotopías en poemas y relatos.",
+              "Explica la importancia de los niveles y de la isotopía en la interpretación textual."
+            ],
+            "indicadores": [
+              "Distingue niveles de análisis lingüístico en textos.",
+              "Reconoce y explica isotopías en la lectura."
+            ]
+          },
+          {
+            "tema": "Paratextualidad e intertextualidad",
+            "conceptual": "Conceptos de paratextualidad (títulos, subtítulos, epígrafes, notas, ilustraciones) e intertextualidad (presencia de otros textos, referencias, citas) en la comprensión lectora.",
+            "procedimental": "Identificación y análisis de paratextos e intertextos en diferentes obras.",
+            "actitudinal": "Apertura a la multiplicidad de voces y sentidos en los textos.",
+            "actividades": [
+              "Analiza paratextos en libros y artículos.",
+              "Identifica referencias y citas en textos literarios y científicos.",
+              "Redacta textos breves incorporando referencias intertextuales."
+            ],
+            "indicadores": [
+              "Reconoce elementos paratextuales e intertextuales en los textos.",
+              "Utiliza referencias y citas en producciones propias."
+            ]
+          },
+          {
+            "tema": "Aplicación de la comprensión lectora en la expresión oral y en la redacción de textos específicos",
+            "conceptual": "Relación entre comprensión lectora y producción oral y escrita. Adaptación de la comprensión lectora en textos publicitarios, jurídicos y de investigación.",
+            "procedimental": "Aplicación de la comprensión lectora en debates, exposiciones, redacción de textos funcionales y académicos.",
+            "actitudinal": "Interés en emplear la lectura comprensiva para mejorar la expresión y el aprendizaje.",
+            "actividades": [
+              "Prepara exposiciones orales a partir de textos leídos.",
+              "Redacta textos publicitarios, jurídicos o de investigación guiándose por la comprensión previa.",
+              "Evalúa la efectividad de sus producciones orales y escritas en relación con la comprensión lectora."
+            ],
+            "indicadores": [
+              "Utiliza la comprensión lectora para mejorar la expresión oral y escrita.",
+              "Adapta estrategias lectoras a la producción de diferentes tipos de textos."
+            ]
+          }
+        ]
+      },
+        {
+        "area": "Apreciación y creación literaria",
+        "objetivos": [
+          "Analizar las manifestaciones literarias panameñas, hispanoamericanas y universales desde una perspectiva histórica, social y estética.",
+          "Identificar los principales movimientos, géneros y autores de la literatura panameña, hispanoamericana y universal.",
+          "Valorar la literatura como medio de expresión artística, cultural y formativa, y como vía para el desarrollo del pensamiento crítico y creativo.",
+          "Producir textos literarios originales a partir de la comprensión y el análisis de modelos significativos."
+        ],
+        "contenidos": [
+          {
+            "tema": "Generalidades de las literaturas panameña, hispanoamericana y universal",
+            "conceptual": "Contextualización histórica y cultural de la literatura panameña, hispanoamericana y universal. Características, géneros y aportes fundamentales.",
+            "procedimental": "Investigación, comparación y exposición sobre las literaturas panameña, hispanoamericana y universal, sus características, géneros y contextos.",
+            "actitudinal": "Apertura y respeto hacia la diversidad literaria y cultural. Interés por conocer manifestaciones literarias más allá del entorno inmediato.",
+            "actividades": [
+              "Investiga sobre autores y obras representativas de la literatura panameña, hispanoamericana y universal.",
+              "Elabora líneas del tiempo o mapas conceptuales que relacionen movimientos, autores y obras.",
+              "Participa en mesas redondas, exposiciones orales o foros literarios."
+            ],
+            "indicadores": [
+              "Identifica características y contextos de las literaturas estudiadas.",
+              "Reconoce géneros, autores y obras fundamentales.",
+              "Valora la literatura como expresión artística y social."
+            ]
+          },
+          {
+            "tema": "Periodos y movimientos literarios",
+            "conceptual": "Identificación de los periodos y movimientos más relevantes de la literatura: colonial, unión a Colombia, clásico, renacimiento, romanticismo, realismo, naturalismo, modernismo, contemporáneo (vanguardismo) y literatura actual.",
+            "procedimental": "Análisis y comparación de textos, autores y contextos de cada movimiento. Relación entre las características del periodo y los textos producidos.",
+            "actitudinal": "Curiosidad, respeto y sentido crítico ante las distintas manifestaciones y evoluciones de la literatura.",
+            "actividades": [
+              "Lee y analiza fragmentos literarios de distintos periodos y movimientos.",
+              "Realiza cuadros comparativos y líneas de tiempo sobre movimientos, autores y contextos.",
+              "Debate sobre la vigencia y relevancia de los diferentes movimientos literarios."
+            ],
+            "indicadores": [
+              "Distingue periodos y movimientos literarios, asociando autores, obras y contextos.",
+              "Analiza textos en función de sus características históricas, sociales y estilísticas.",
+              "Valora la evolución literaria como reflejo del desarrollo cultural."
+            ],
+            "subtemas": [
+              {
+                "tema": "Literatura colonial",
+                "conceptual": "Características, géneros y autores principales de la literatura colonial.",
+                "procedimental": "Análisis de textos coloniales y su contexto histórico.",
+                "actitudinal": "Interés por la literatura como testimonio del proceso de colonización.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Literatura de la unión a Colombia",
+                "conceptual": "Rasgos y autores destacados de la literatura durante la unión a Colombia.",
+                "procedimental": "Estudio de textos y contexto social de la época.",
+                "actitudinal": "Apertura para comprender la evolución nacional e identitaria en la literatura.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Literatura clásica y renacentista",
+                "conceptual": "Principales características, obras y autores de los periodos clásico y renacentista.",
+                "procedimental": "Lectura y análisis comparativo de textos.",
+                "actitudinal": "Aprecio por el legado literario de la Antigüedad y el Renacimiento.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Romanticismo",
+                "conceptual": "Características, temas y representantes del Romanticismo.",
+                "procedimental": "Análisis de textos románticos y de su contexto social y cultural.",
+                "actitudinal": "Sensibilidad ante la expresión de sentimientos y valores del movimiento.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Realismo y naturalismo",
+                "conceptual": "Diferencias, características y autores del Realismo y Naturalismo.",
+                "procedimental": "Lectura y comparación de textos realistas y naturalistas.",
+                "actitudinal": "Interés por la representación objetiva y crítica de la realidad.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Modernismo",
+                "conceptual": "Características estéticas, temas y representantes del Modernismo.",
+                "procedimental": "Estudio de textos modernistas y análisis de recursos expresivos.",
+                "actitudinal": "Admiración por la renovación formal y temática de la literatura modernista.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Vanguardismo y literatura contemporánea",
+                "conceptual": "Características del vanguardismo y de la literatura contemporánea.",
+                "procedimental": "Análisis de obras y experimentación con nuevas formas expresivas.",
+                "actitudinal": "Curiosidad y apertura a las tendencias y rupturas de la literatura actual.",
+                "actividades": [],
+                "indicadores": []
+              },
+              {
+                "tema": "Literatura actual",
+                "conceptual": "Manifestaciones, géneros y autores de la literatura actual.",
+                "procedimental": "Investigación y lectura de textos actuales, valoración de su diversidad.",
+                "actitudinal": "Interés por las nuevas formas y temas de la literatura contemporánea.",
+                "actividades": [],
+                "indicadores": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+]
