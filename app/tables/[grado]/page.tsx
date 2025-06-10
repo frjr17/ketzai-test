@@ -2,6 +2,7 @@ import jsonData from "@/lib/data.json"
 import { Accordion } from "@/components/ui/accordion";
 import { AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import DataTable from "@/app/components/data-table";
+import { normalizeString } from "@/lib/utils";
 
 
 
@@ -9,8 +10,8 @@ import DataTable from "@/app/components/data-table";
 
 export default async function TablePage(props:{params:{grado:string}}){
     const params = await props.params;
-    const data = jsonData.find(data=>data.grado === params.grado)
-    const index = jsonData.findIndex(data=>data.grado === params.grado)
+    const data = jsonData.find(data=>normalizeString(data.grado) === normalizeString(decodeURIComponent(params.grado)))
+    const index = jsonData.findIndex(data=>normalizeString(data.grado) === normalizeString(decodeURIComponent(params.grado)))
     return(
         <div className="text-center p-20" >
       <h1 className="text-4xl font-bold">Datos de {data?.grado}  ({data?.año})</h1>
